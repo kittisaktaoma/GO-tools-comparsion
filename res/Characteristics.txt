@@ -1,0 +1,181 @@
+Database,variable,rescale,type
+g:Profiler,Binomial Probability,0,Statistical Test
+GO:TermFinder,Binomial Probability,0,Statistical Test
+ClueGO,Binomial Probability,0,Statistical Test
+BiNGO,Binomial Probability,1,Statistical Test
+STRING,Binomial Probability,0,Statistical Test
+DAVID,Binomial Probability,1,Statistical Test
+PANTHER,Binomial Probability,1,Statistical Test
+GENECODIS,Binomial Probability,0,Statistical Test
+GOstat,Binomial Probability,0,Statistical Test
+WebGestalt,Binomial Probability,0,Statistical Test
+g:Profiler,Chi-square test,0,Statistical Test
+GO:TermFinder,Chi-square test,0,Statistical Test
+ClueGO,Chi-square test,0,Statistical Test
+BiNGO,Chi-square test,0,Statistical Test
+STRING,Chi-square test,0,Statistical Test
+DAVID,Chi-square test,1,Statistical Test
+PANTHER,Chi-square test,0,Statistical Test
+GENECODIS,Chi-square test,1,Statistical Test
+GOstat,Chi-square test,0,Statistical Test
+WebGestalt,Chi-square test,0,Statistical Test
+g:Profiler,Hypergeometric tests,1,Statistical Test
+GO:TermFinder,Hypergeometric tests,1,Statistical Test
+ClueGO,Hypergeometric tests,1,Statistical Test
+BiNGO,Hypergeometric tests,1,Statistical Test
+STRING,Hypergeometric tests,1,Statistical Test
+DAVID,Hypergeometric tests,1,Statistical Test
+PANTHER,Hypergeometric tests,0,Statistical Test
+GENECODIS,Hypergeometric tests,1,Statistical Test
+GOstat,Hypergeometric tests,0,Statistical Test
+WebGestalt,Hypergeometric tests,0,Statistical Test
+g:Profiler,Fisher's exact test,0,Statistical Test
+GO:TermFinder,Fisher's exact test,0,Statistical Test
+ClueGO,Fisher's exact test,0,Statistical Test
+BiNGO,Fisher's exact test,0,Statistical Test
+STRING,Fisher's exact test,0,Statistical Test
+DAVID,Fisher's exact test,1,Statistical Test
+PANTHER,Fisher's exact test,1,Statistical Test
+GENECODIS,Fisher's exact test,0,Statistical Test
+GOstat,Fisher's exact test,1,Statistical Test
+WebGestalt,Fisher's exact test,1,Statistical Test
+g:Profiler,Benjamini?Hochberg method,1,Multiple Testing Method
+GO:TermFinder,Benjamini?Hochberg method,0,Multiple Testing Method
+ClueGO,Benjamini?Hochberg method,1,Multiple Testing Method
+BiNGO,Benjamini?Hochberg method,1,Multiple Testing Method
+STRING,Benjamini?Hochberg method,1,Multiple Testing Method
+DAVID,Benjamini?Hochberg method,1,Multiple Testing Method
+PANTHER,Benjamini?Hochberg method,1,Multiple Testing Method
+GENECODIS,Benjamini?Hochberg method,1,Multiple Testing Method
+GOstat,Benjamini?Hochberg method,1,Multiple Testing Method
+WebGestalt,Benjamini?Hochberg method,1,Multiple Testing Method
+g:Profiler,Bonferroni correction,1,Multiple Testing Method
+GO:TermFinder,Bonferroni correction,1,Multiple Testing Method
+ClueGO,Bonferroni correction,1,Multiple Testing Method
+BiNGO,Bonferroni correction,1,Multiple Testing Method
+STRING,Bonferroni correction,0,Multiple Testing Method
+DAVID,Bonferroni correction,1,Multiple Testing Method
+PANTHER,Bonferroni correction,1,Multiple Testing Method
+GENECODIS,Bonferroni correction,0,Multiple Testing Method
+GOstat,Bonferroni correction,0,Multiple Testing Method
+WebGestalt,Bonferroni correction,1,Multiple Testing Method
+g:Profiler,Bonferroni correction step-down,0,Multiple Testing Method
+GO:TermFinder,Bonferroni correction step-down,0,Multiple Testing Method
+ClueGO,Bonferroni correction step-down,1,Multiple Testing Method
+BiNGO,Bonferroni correction step-down,0,Multiple Testing Method
+STRING,Bonferroni correction step-down,0,Multiple Testing Method
+DAVID,Bonferroni correction step-down,0,Multiple Testing Method
+PANTHER,Bonferroni correction step-down,0,Multiple Testing Method
+GENECODIS,Bonferroni correction step-down,0,Multiple Testing Method
+GOstat,Bonferroni correction step-down,0,Multiple Testing Method
+WebGestalt,Bonferroni correction step-down,0,Multiple Testing Method
+g:Profiler,False discovery rate,0,Multiple Testing Method
+GO:TermFinder,False discovery rate,1,Multiple Testing Method
+ClueGO,False discovery rate,0,Multiple Testing Method
+BiNGO,False discovery rate,0,Multiple Testing Method
+STRING,False discovery rate,0,Multiple Testing Method
+DAVID,False discovery rate,1,Multiple Testing Method
+PANTHER,False discovery rate,0,Multiple Testing Method
+GENECODIS,False discovery rate,0,Multiple Testing Method
+GOstat,False discovery rate,0,Multiple Testing Method
+WebGestalt,False discovery rate,0,Multiple Testing Method
+g:Profiler,FDR-Benjamini Yekutili,0,Multiple Testing Method
+GO:TermFinder,FDR-Benjamini Yekutili,0,Multiple Testing Method
+ClueGO,FDR-Benjamini Yekutili,0,Multiple Testing Method
+BiNGO,FDR-Benjamini Yekutili,0,Multiple Testing Method
+STRING,FDR-Benjamini Yekutili,0,Multiple Testing Method
+DAVID,FDR-Benjamini Yekutili,0,Multiple Testing Method
+PANTHER,FDR-Benjamini Yekutili,0,Multiple Testing Method
+GENECODIS,FDR-Benjamini Yekutili,0,Multiple Testing Method
+GOstat,FDR-Benjamini Yekutili,1,Multiple Testing Method
+WebGestalt,FDR-Benjamini Yekutili,1,Multiple Testing Method
+g:Profiler,g:SCS algorithm,1,Multiple Testing Method
+GO:TermFinder,g:SCS algorithm,0,Multiple Testing Method
+ClueGO,g:SCS algorithm,0,Multiple Testing Method
+BiNGO,g:SCS algorithm,0,Multiple Testing Method
+STRING,g:SCS algorithm,0,Multiple Testing Method
+DAVID,g:SCS algorithm,0,Multiple Testing Method
+PANTHER,g:SCS algorithm,0,Multiple Testing Method
+GENECODIS,g:SCS algorithm,0,Multiple Testing Method
+GOstat,g:SCS algorithm,0,Multiple Testing Method
+WebGestalt,g:SCS algorithm,0,Multiple Testing Method
+g:Profiler,Holm?Bonferroni method,0,Multiple Testing Method
+GO:TermFinder,Holm?Bonferroni method,0,Multiple Testing Method
+ClueGO,Holm?Bonferroni method,0,Multiple Testing Method
+BiNGO,Holm?Bonferroni method,0,Multiple Testing Method
+STRING,Holm?Bonferroni method,0,Multiple Testing Method
+DAVID,Holm?Bonferroni method,0,Multiple Testing Method
+PANTHER,Holm?Bonferroni method,0,Multiple Testing Method
+GENECODIS,Holm?Bonferroni method,0,Multiple Testing Method
+GOstat,Holm?Bonferroni method,1,Multiple Testing Method
+WebGestalt,Holm?Bonferroni method,1,Multiple Testing Method
+g:Profiler,Hommel,0,Multiple Testing Method
+GO:TermFinder,Hommel,0,Multiple Testing Method
+ClueGO,Hommel,0,Multiple Testing Method
+BiNGO,Hommel,0,Multiple Testing Method
+STRING,Hommel,0,Multiple Testing Method
+DAVID,Hommel,0,Multiple Testing Method
+PANTHER,Hommel,0,Multiple Testing Method
+GENECODIS,Hommel,0,Multiple Testing Method
+GOstat,Hommel,0,Multiple Testing Method
+WebGestalt,Hommel,1,Multiple Testing Method
+g:Profiler,Permutation method,0,Multiple Testing Method
+GO:TermFinder,Permutation method,0,Multiple Testing Method
+ClueGO,Permutation method,0,Multiple Testing Method
+BiNGO,Permutation method,0,Multiple Testing Method
+STRING,Permutation method,0,Multiple Testing Method
+DAVID,Permutation method,0,Multiple Testing Method
+PANTHER,Permutation method,0,Multiple Testing Method
+GENECODIS,Permutation method,1,Multiple Testing Method
+GOstat,Permutation method,0,Multiple Testing Method
+WebGestalt,Permutation method,0,Multiple Testing Method
+g:Profiler,GO-related graphical visualization,0,Miscellaneous
+GO:TermFinder,GO-related graphical visualization,1,Miscellaneous
+ClueGO,GO-related graphical visualization,1,Miscellaneous
+BiNGO,GO-related graphical visualization,1,Miscellaneous
+STRING,GO-related graphical visualization,0,Miscellaneous
+DAVID,GO-related graphical visualization,0,Miscellaneous
+PANTHER,GO-related graphical visualization,0,Miscellaneous
+GENECODIS,GO-related graphical visualization,0,Miscellaneous
+GOstat,GO-related graphical visualization,0,Miscellaneous
+WebGestalt,GO-related graphical visualization,1,Miscellaneous
+g:Profiler,Evidence codes adjustment or presentation,1,Miscellaneous
+GO:TermFinder,Evidence codes adjustment or presentation,1,Miscellaneous
+ClueGO,Evidence codes adjustment or presentation,1,Miscellaneous
+BiNGO,Evidence codes adjustment or presentation,1,Miscellaneous
+STRING,Evidence codes adjustment or presentation,0,Miscellaneous
+DAVID,Evidence codes adjustment or presentation,0,Miscellaneous
+PANTHER,Evidence codes adjustment or presentation,0,Miscellaneous
+GENECODIS,Evidence codes adjustment or presentation,0,Miscellaneous
+GOstat,Evidence codes adjustment or presentation,0,Miscellaneous
+WebGestalt,Evidence codes adjustment or presentation,0,Miscellaneous
+g:Profiler,Programmable,1,Miscellaneous
+GO:TermFinder,Programmable,1,Miscellaneous
+ClueGO,Programmable,0,Miscellaneous
+BiNGO,Programmable,0,Miscellaneous
+STRING,Programmable,1,Miscellaneous
+DAVID,Programmable,1,Miscellaneous
+PANTHER,Programmable,0,Miscellaneous
+GENECODIS,Programmable,0,Miscellaneous
+GOstat,Programmable,1,Miscellaneous
+WebGestalt,Programmable,1,Miscellaneous
+g:Profiler,Sub-type algorithms,0,Miscellaneous
+GO:TermFinder,Sub-type algorithms,0,Miscellaneous
+ClueGO,Sub-type algorithms,1,Miscellaneous
+BiNGO,Sub-type algorithms,0,Miscellaneous
+STRING,Sub-type algorithms,1,Miscellaneous
+DAVID,Sub-type algorithms,0,Miscellaneous
+PANTHER,Sub-type algorithms,1,Miscellaneous
+GENECODIS,Sub-type algorithms,0,Miscellaneous
+GOstat,Sub-type algorithms,0,Miscellaneous
+WebGestalt,Sub-type algorithms,0,Miscellaneous
+g:Profiler,Customization of GO levels,0,Miscellaneous
+GO:TermFinder,Customization of GO levels,0,Miscellaneous
+ClueGO,Customization of GO levels,1,Miscellaneous
+BiNGO,Customization of GO levels,0,Miscellaneous
+STRING,Customization of GO levels,0,Miscellaneous
+DAVID,Customization of GO levels,0,Miscellaneous
+PANTHER,Customization of GO levels,0,Miscellaneous
+GENECODIS,Customization of GO levels,0,Miscellaneous
+GOstat,Customization of GO levels,1,Miscellaneous
+WebGestalt,Customization of GO levels,0,Miscellaneous
