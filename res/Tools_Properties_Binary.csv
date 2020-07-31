@@ -1,0 +1,11 @@
+Database	Binomial Probability	Chi-square test	Hypergeometric tests	Fisher's exact test	Permutation method	Benjamini–Hochberg method	Holm–Bonferroni method	False discovery rate	Hommel	FDR-Benjamini Yekutili	Bonferroni correction	Bonferroni correction step-down	g:SCS algorithm	GO-related graphical visualization	Evidence codes adjustment or presentation	Programmable	Sub-type algorithms	Customization of GO levels
+g:Profiler	0	0	1	0	0	1	0	0	0	0	1	0	1	0	1	1	0	0
+GO:TermFinder	0	0	1	0	0	0	0	1	0	0	1	0	0	1	1	1	0	0
+ClueGO	0	0	1	0	0	1	0	0	0	0	1	1	0	1	1	0	1	1
+BiNGO	1	0	1	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0
+STRING	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0
+DAVID	1	1	1	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0
+PANTHER	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	1	0
+GENECODIS	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+GOstat	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	1	0	1
+WebGestalt	0	0	0	1	0	1	1	0	1	1	1	0	0	1	0	1	0	0
