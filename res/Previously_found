@@ -1,205 +1,205 @@
 GOID	Type	Enrichment	evidence	FDR	Dataset
-GO:0000184	BP	Down-regulated protein	Previouly Found	0.02303	Caffeine Dataset
-GO:0000184	BP	Down-regulated protein	Previouly Found	0.000115	EGCG Dataset
-GO:0000184	BP	Up-regulated protein	Previouly Found	1.78E-08	Caffeine Dataset
-GO:0000184	BP	Up-regulated protein	Previouly Found	1.11E-09	EGCG Dataset
-GO:0000956	BP	Down-regulated protein	Previouly Found	0.002264	EGCG Dataset
-GO:0000956	BP	Down-regulated protein	Previouly Found	5.44E-05	Caffeine Dataset
-GO:0000956	BP	Up-regulated protein	Previouly Found	1.90E-06	Caffeine Dataset
-GO:0000956	BP	Up-regulated protein	Previouly Found	2.04E-07	EGCG Dataset
-GO:0002181	BP	Up-regulated protein	Previouly Found	0.1494	Caffeine Dataset
-GO:0002181	BP	Up-regulated protein	Previouly Found	0.027892	EGCG Dataset
-GO:0002181	BP	Down-regulated protein	Previouly Found	0.021243	Caffeine Dataset
-GO:0002181	BP	Down-regulated protein	Previouly Found	0.000738	EGCG Dataset
-GO:0002474	BP	Down-regulated protein	Previouly Found	0.016977	Caffeine Dataset
-GO:0002474	BP	Up-regulated protein	Previouly Found	0.016262	Caffeine Dataset
-GO:0002474	BP	Up-regulated protein	Previouly Found	0.003271	EGCG Dataset
-GO:0002479	BP	Up-regulated protein	Previouly Found	0.015581	EGCG Dataset
-GO:0002479	BP	Down-regulated protein	Previouly Found	0.012	Caffeine Dataset
-GO:0002479	BP	Up-regulated protein	Previouly Found	0.011175	Caffeine Dataset
-GO:0003680	MF	Down-regulated protein	Previouly Found	0.067222	Caffeine Dataset
-GO:0003680	MF	Down-regulated protein	Previouly Found	0.064435	EGCG Dataset
-GO:0003727	MF	Down-regulated protein	Previouly Found	0.018622	Caffeine Dataset
-GO:0003727	MF	Up-regulated protein	Previouly Found	0.016467	EGCG Dataset
-GO:0003727	MF	Down-regulated protein	Previouly Found	0.012509	EGCG Dataset
-GO:0004298	MF	Up-regulated protein	Previouly Found	0.048381	Caffeine Dataset
-GO:0004298	MF	Down-regulated protein	Previouly Found	0.043776	EGCG Dataset
-GO:0004298	MF	Up-regulated protein	Previouly Found	0.012725	EGCG Dataset
-GO:0005080	MF	Up-regulated protein	Previouly Found	0.029099	EGCG Dataset
-GO:0005080	MF	Up-regulated protein	Previouly Found	0.004873	Caffeine Dataset
-GO:0006094	BP	Up-regulated protein	Previouly Found	0.04184	EGCG Dataset
-GO:0006094	BP	Down-regulated protein	Previouly Found	0.01346	Caffeine Dataset
-GO:0006094	BP	Down-regulated protein	Previouly Found	0.004635	EGCG Dataset
-GO:0006107	BP	Down-regulated protein	Previouly Found	0.148587	Caffeine Dataset
-GO:0006107	BP	Down-regulated protein	Previouly Found	0.006667	EGCG Dataset
-GO:0006284	BP	Down-regulated protein	Previouly Found	0.117335	Caffeine Dataset
-GO:0006284	BP	Down-regulated protein	Previouly Found	0.005162	EGCG Dataset
-GO:0006334	BP	Up-regulated protein	Previouly Found	0.053601	Caffeine Dataset
-GO:0006334	BP	Up-regulated protein	Previouly Found	0.044223	EGCG Dataset
-GO:0006364	BP	Down-regulated protein	Previouly Found	0.174769	Caffeine Dataset
-GO:0006364	BP	Down-regulated protein	Previouly Found	0.032984	EGCG Dataset
-GO:0006364	BP	Up-regulated protein	Previouly Found	0.008449	Caffeine Dataset
-GO:0006364	BP	Up-regulated protein	Previouly Found	0.000368	EGCG Dataset
-GO:0006401	BP	Down-regulated protein	Previouly Found	0.007968	Caffeine Dataset
-GO:0006401	BP	Down-regulated protein	Previouly Found	0.000514	EGCG Dataset
-GO:0006401	BP	Up-regulated protein	Previouly Found	4.04E-06	Caffeine Dataset
-GO:0006401	BP	Up-regulated protein	Previouly Found	8.44E-07	EGCG Dataset
-GO:0006402	BP	Down-regulated protein	Previouly Found	0.011074	Caffeine Dataset
-GO:0006402	BP	Down-regulated protein	Previouly Found	0.000289	EGCG Dataset
-GO:0006402	BP	Up-regulated protein	Previouly Found	1.07E-06	Caffeine Dataset
-GO:0006402	BP	Up-regulated protein	Previouly Found	3.57E-07	EGCG Dataset
-GO:0006413	BP	Down-regulated protein	Previouly Found	0.009596	Caffeine Dataset
-GO:0006413	BP	Down-regulated protein	Previouly Found	0.00542	EGCG Dataset
-GO:0006413	BP	Up-regulated protein	Previouly Found	0.000906	EGCG Dataset
-GO:0006413	BP	Up-regulated protein	Previouly Found	6.48E-07	Caffeine Dataset
-GO:0006521	BP	Up-regulated protein	Previouly Found	0.014165	EGCG Dataset
-GO:0006521	BP	Down-regulated protein	Previouly Found	0.009459	Caffeine Dataset
-GO:0006521	BP	Up-regulated protein	Previouly Found	0.008885	Caffeine Dataset
-GO:0006605	BP	Down-regulated protein	Previouly Found	0.02171	EGCG Dataset
-GO:0006605	BP	Down-regulated protein	Previouly Found	0.009909	Caffeine Dataset
-GO:0006605	BP	Up-regulated protein	Previouly Found	0.001662	EGCG Dataset
-GO:0006605	BP	Up-regulated protein	Previouly Found	8.18E-07	Caffeine Dataset
-GO:0006612	BP	Down-regulated protein	Previouly Found	0.00176	EGCG Dataset
-GO:0006612	BP	Down-regulated protein	Previouly Found	4.10E-05	Caffeine Dataset
-GO:0006612	BP	Up-regulated protein	Previouly Found	1.36E-06	Caffeine Dataset
-GO:0006612	BP	Up-regulated protein	Previouly Found	1.56E-07	EGCG Dataset
-GO:0006613	BP	Down-regulated protein	Previouly Found	0.014917	Caffeine Dataset
-GO:0006613	BP	Down-regulated protein	Previouly Found	5.16E-05	EGCG Dataset
-GO:0006613	BP	Up-regulated protein	Previouly Found	8.02E-09	Caffeine Dataset
-GO:0006613	BP	Up-regulated protein	Previouly Found	4.47E-09	EGCG Dataset
-GO:0006614	BP	Down-regulated protein	Previouly Found	0.016692	Caffeine Dataset
-GO:0006614	BP	Down-regulated protein	Previouly Found	5.42E-05	EGCG Dataset
-GO:0006614	BP	Up-regulated protein	Previouly Found	5.40E-09	Caffeine Dataset
-GO:0006614	BP	Up-regulated protein	Previouly Found	2.31E-09	EGCG Dataset
-GO:0006734	BP	Down-regulated protein	Previouly Found	0.128849	EGCG Dataset
-GO:0006734	BP	Up-regulated protein	Previouly Found	0.024909	EGCG Dataset
-GO:0006734	BP	Down-regulated protein	Previouly Found	0.005325	Caffeine Dataset
-GO:0006735	BP	Up-regulated protein	Previouly Found	0.009842	EGCG Dataset
-GO:0015036	MF	Up-regulated protein	Previouly Found	0.002713	EGCG Dataset
-GO:0016072	BP	Up-regulated protein	Previouly Found	0.020586	Caffeine Dataset
-GO:0016072	BP	Down-regulated protein	Previouly Found	0.009243	Caffeine Dataset
-GO:0016072	BP	Up-regulated protein	Previouly Found	0.000677	EGCG Dataset
-GO:0016667	MF	Up-regulated protein	Previouly Found	0.002864	EGCG Dataset
-GO:0016667	MF	Up-regulated protein	Previouly Found	0.000414	EGCG Dataset
-GO:0017025	MF	Down-regulated protein	Previouly Found	0.139696	EGCG Dataset
-GO:0017025	MF	Down-regulated protein	Previouly Found	0.034289	Caffeine Dataset
-GO:0019319	BP	Down-regulated protein	Previouly Found	0.00765	Caffeine Dataset
-GO:0019319	BP	Down-regulated protein	Previouly Found	0.003139	EGCG Dataset
-GO:0019319	BP	Up-regulated protein	Previouly Found	0.00201	EGCG Dataset
-GO:0019843	MF	Down-regulated protein	Previouly Found	0.019703	EGCG Dataset
-GO:0019843	MF	Up-regulated protein	Previouly Found	0.006172	Caffeine Dataset
-GO:0031145	BP	Up-regulated protein	Previouly Found	0.030575	EGCG Dataset
-GO:0031145	BP	Up-regulated protein	Previouly Found	0.018842	Caffeine Dataset
-GO:0031145	BP	Down-regulated protein	Previouly Found	0.013825	Caffeine Dataset
-GO:0031146	BP	Down-regulated protein	Previouly Found	0.016977	Caffeine Dataset
-GO:0031146	BP	Up-regulated protein	Previouly Found	0.016028	Caffeine Dataset
-GO:0031146	BP	Up-regulated protein	Previouly Found	0.005206	EGCG Dataset
-GO:0032206	BP	Down-regulated protein	Previouly Found	0.006509	EGCG Dataset
-GO:0032206	BP	Down-regulated protein	Previouly Found	0.001405	Caffeine Dataset
-GO:0032210	BP	Down-regulated protein	Previouly Found	0.007183	EGCG Dataset
-GO:0032210	BP	Down-regulated protein	Previouly Found	0.000289	Caffeine Dataset
-GO:0032212	BP	Down-regulated protein	Previouly Found	0.014262	Caffeine Dataset
-GO:0032212	BP	Down-regulated protein	Previouly Found	0.003398	EGCG Dataset
-GO:0033238	BP	Down-regulated protein	Previouly Found	0.014061	Caffeine Dataset
-GO:0033238	BP	Up-regulated protein	Previouly Found	0.013538	EGCG Dataset
-GO:0033238	BP	Up-regulated protein	Previouly Found	0.012896	Caffeine Dataset
-GO:0035722	BP	Down-regulated protein	Previouly Found	0.010344	Caffeine Dataset
-GO:0035722	BP	Down-regulated protein	Previouly Found	0.009147	EGCG Dataset
-GO:0042254	BP	Down-regulated protein	Previouly Found	0.016135	Caffeine Dataset
-GO:0042254	BP	Down-regulated protein	Previouly Found	0.014704	EGCG Dataset
-GO:0042254	BP	Up-regulated protein	Previouly Found	0.014018	EGCG Dataset
-GO:0042254	BP	Up-regulated protein	Previouly Found	0.008257	Caffeine Dataset
-GO:0042590	BP	Down-regulated protein	Previouly Found	0.012903	Caffeine Dataset
-GO:0042590	BP	Up-regulated protein	Previouly Found	0.012135	Caffeine Dataset
-GO:0042590	BP	Up-regulated protein	Previouly Found	0.004952	EGCG Dataset
-GO:0043618	BP	Down-regulated protein	Previouly Found	0.023213	Caffeine Dataset
-GO:0043618	BP	Up-regulated protein	Previouly Found	0.021149	Caffeine Dataset
-GO:0043618	BP	Up-regulated protein	Previouly Found	0.008281	EGCG Dataset
-GO:0045047	BP	Down-regulated protein	Previouly Found	0.011556	Caffeine Dataset
-GO:0045047	BP	Down-regulated protein	Previouly Found	7.81E-05	EGCG Dataset
-GO:0045047	BP	Up-regulated protein	Previouly Found	1.19E-08	Caffeine Dataset
-GO:0045047	BP	Up-regulated protein	Previouly Found	8.32E-09	EGCG Dataset
-GO:0045815	BP	Down-regulated protein	Previouly Found	0.023129	EGCG Dataset
-GO:0045815	BP	Up-regulated protein	Previouly Found	0.009553	EGCG Dataset
-GO:0045815	BP	Down-regulated protein	Previouly Found	0.009243	Caffeine Dataset
-GO:0045815	BP	Up-regulated protein	Previouly Found	0.00027	Caffeine Dataset
-GO:0045898	BP	Up-regulated protein	Previouly Found	0.042695	EGCG Dataset
-GO:0045898	BP	Down-regulated protein	Previouly Found	0.03919	EGCG Dataset
-GO:0045898	BP	Up-regulated protein	Previouly Found	0.036856	Caffeine Dataset
-GO:0045898	BP	Down-regulated protein	Previouly Found	0.00777	Caffeine Dataset
-GO:0048027	MF	Up-regulated protein	Previouly Found	0.007244	Caffeine Dataset
-GO:0048306	MF	Down-regulated protein	Previouly Found	0.102157	Caffeine Dataset
-GO:0048306	MF	Down-regulated protein	Previouly Found	0.076571	EGCG Dataset
-GO:0051123	BP	Down-regulated protein	Previouly Found	0.01153	Caffeine Dataset
-GO:0051290	BP	Up-regulated protein	Previouly Found	0.095925	Caffeine Dataset
-GO:0051436	BP	Up-regulated protein	Previouly Found	0.049958	EGCG Dataset
-GO:0051436	BP	Up-regulated protein	Previouly Found	0.024985	Caffeine Dataset
-GO:0051437	BP	Up-regulated protein	Previouly Found	0.052604	EGCG Dataset
-GO:0051437	BP	Up-regulated protein	Previouly Found	0.025425	Caffeine Dataset
-GO:0051438	BP	Up-regulated protein	Previouly Found	0.038479	Caffeine Dataset
-GO:0051438	BP	Up-regulated protein	Previouly Found	0.011293	EGCG Dataset
-GO:0051439	BP	Up-regulated protein	Previouly Found	0.027967	Caffeine Dataset
-GO:0051439	BP	Up-regulated protein	Previouly Found	0.007893	EGCG Dataset
-GO:0051443	BP	Up-regulated protein	Previouly Found	0.029644	Caffeine Dataset
-GO:0051443	BP	Up-regulated protein	Previouly Found	0.008458	EGCG Dataset
-GO:0051444	BP	Up-regulated protein	Previouly Found	0.026331	Caffeine Dataset
-GO:0051444	BP	Up-regulated protein	Previouly Found	0.007352	EGCG Dataset
-GO:0051575	MF	Down-regulated protein	Previouly Found	0.01136	Caffeine Dataset
-GO:0051575	MF	Down-regulated protein	Previouly Found	0.008611	EGCG Dataset
-GO:0051764	BP	Up-regulated protein	Previouly Found	0.028027	EGCG Dataset
-GO:0060071	BP	Up-regulated protein	Previouly Found	0.043236	EGCG Dataset
-GO:0060071	BP	Down-regulated protein	Previouly Found	0.020369	Caffeine Dataset
-GO:0060071	BP	Down-regulated protein	Previouly Found	0.020005	EGCG Dataset
-GO:0060071	BP	Up-regulated protein	Previouly Found	0.018574	Caffeine Dataset
-GO:0060218	BP	Down-regulated protein	Previouly Found	0.014028	EGCG Dataset
-GO:0060218	BP	Up-regulated protein	Previouly Found	0.013138	Caffeine Dataset
-GO:0060218	BP	Up-regulated protein	Previouly Found	4.15E-05	EGCG Dataset
-GO:0060218	BP	Down-regulated protein	Previouly Found	3.68E-05	Caffeine Dataset
-GO:0060260	BP	Down-regulated protein	Previouly Found	0.009497	Caffeine Dataset
-GO:0061418	BP	Down-regulated protein	Previouly Found	0.01275	Caffeine Dataset
-GO:0061418	BP	Up-regulated protein	Previouly Found	0.011965	Caffeine Dataset
-GO:0061418	BP	Up-regulated protein	Previouly Found	0.003531	EGCG Dataset
-GO:0061615	BP	Up-regulated protein	Previouly Found	0.01193	EGCG Dataset
-GO:0061620	BP	Up-regulated protein	Previouly Found	0.011979	EGCG Dataset
-GO:0061621	BP	Up-regulated protein	Previouly Found	0.022891	EGCG Dataset
-GO:0061718	BP	Up-regulated protein	Previouly Found	0.009803	EGCG Dataset
-GO:0070003	MF	Up-regulated protein	Previouly Found	0.048381	Caffeine Dataset
-GO:0070003	MF	Down-regulated protein	Previouly Found	0.043776	EGCG Dataset
-GO:0070003	MF	Up-regulated protein	Previouly Found	0.006852	EGCG Dataset
-GO:0070198	BP	Down-regulated protein	Previouly Found	0.00293	Caffeine Dataset
-GO:0070198	BP	Down-regulated protein	Previouly Found	0.00273	EGCG Dataset
-GO:0070671	BP	Down-regulated protein	Previouly Found	0.001256	Caffeine Dataset
-GO:0070671	BP	Down-regulated protein	Previouly Found	0.000888	EGCG Dataset
-GO:0070897	BP	Down-regulated protein	Previouly Found	0.000315	Caffeine Dataset
-GO:0070972	BP	Down-regulated protein	Previouly Found	0.024414	Caffeine Dataset
-GO:0070972	BP	Down-regulated protein	Previouly Found	0.000214	EGCG Dataset
-GO:0070972	BP	Up-regulated protein	Previouly Found	7.95E-08	EGCG Dataset
-GO:0070972	BP	Up-regulated protein	Previouly Found	6.96E-08	Caffeine Dataset
-GO:0071349	BP	Down-regulated protein	Previouly Found	0.00116	Caffeine Dataset
-GO:0071349	BP	Down-regulated protein	Previouly Found	0.000821	EGCG Dataset
-GO:0072599	BP	Down-regulated protein	Previouly Found	0.013269	Caffeine Dataset
-GO:0072599	BP	Down-regulated protein	Previouly Found	8.59E-05	EGCG Dataset
-GO:0072599	BP	Up-regulated protein	Previouly Found	1.40E-08	Caffeine Dataset
-GO:0072599	BP	Up-regulated protein	Previouly Found	1.11E-08	EGCG Dataset
-GO:0090150	BP	Down-regulated protein	Previouly Found	0.01206	Caffeine Dataset
-GO:0090150	BP	Down-regulated protein	Previouly Found	0.004941	EGCG Dataset
-GO:0090150	BP	Up-regulated protein	Previouly Found	2.76E-05	EGCG Dataset
-GO:0090150	BP	Up-regulated protein	Previouly Found	7.22E-07	Caffeine Dataset
-GO:0090175	BP	Down-regulated protein	Previouly Found	0.020943	Caffeine Dataset
-GO:0090175	BP	Down-regulated protein	Previouly Found	0.020601	EGCG Dataset
-GO:0090175	BP	Up-regulated protein	Previouly Found	0.019085	Caffeine Dataset
-GO:0090175	BP	Up-regulated protein	Previouly Found	0.000103	EGCG Dataset
-GO:1901532	BP	Up-regulated protein	Previouly Found	0.013412	Caffeine Dataset
-GO:1901532	BP	Up-regulated protein	Previouly Found	0.013272	EGCG Dataset
-GO:1901532	BP	Down-regulated protein	Previouly Found	0.000921	Caffeine Dataset
-GO:1902036	BP	Up-regulated protein	Previouly Found	0.010703	Caffeine Dataset
-GO:1902036	BP	Up-regulated protein	Previouly Found	0.007883	EGCG Dataset
-GO:1902036	BP	Down-regulated protein	Previouly Found	0.000602	Caffeine Dataset
-GO:1904356	BP	Down-regulated protein	Previouly Found	0.008914	EGCG Dataset
-GO:1904356	BP	Down-regulated protein	Previouly Found	0.000407	Caffeine Dataset
-GO:1904358	BP	Down-regulated protein	Previouly Found	0.003878	EGCG Dataset
-GO:1904358	BP	Down-regulated protein	Previouly Found	0.000543	Caffeine Dataset
-GO:2000142	BP	Down-regulated protein	Previouly Found	0.016554	Caffeine Dataset
-GO:2000736	BP	Up-regulated protein	Previouly Found	0.020848	Caffeine Dataset
-GO:2000736	BP	Down-regulated protein	Previouly Found	0.002069	Caffeine Dataset
-GO:2000736	BP	Up-regulated protein	Previouly Found	0.000131	EGCG Dataset
+GO:0000184	BP	Down-regulated protein	Previouly Found	0.02303	Caffeine 
+GO:0000184	BP	Down-regulated protein	Previouly Found	0.000115	EGCG 
+GO:0000184	BP	Up-regulated protein	Previouly Found	1.78E-08	Caffeine 
+GO:0000184	BP	Up-regulated protein	Previouly Found	1.11E-09	EGCG 
+GO:0000956	BP	Down-regulated protein	Previouly Found	0.002264	EGCG 
+GO:0000956	BP	Down-regulated protein	Previouly Found	5.44E-05	Caffeine 
+GO:0000956	BP	Up-regulated protein	Previouly Found	1.90E-06	Caffeine 
+GO:0000956	BP	Up-regulated protein	Previouly Found	2.04E-07	EGCG 
+GO:0002181	BP	Up-regulated protein	Previouly Found	0.1494	Caffeine 
+GO:0002181	BP	Up-regulated protein	Previouly Found	0.027892	EGCG 
+GO:0002181	BP	Down-regulated protein	Previouly Found	0.021243	Caffeine 
+GO:0002181	BP	Down-regulated protein	Previouly Found	0.000738	EGCG 
+GO:0002474	BP	Down-regulated protein	Previouly Found	0.016977	Caffeine 
+GO:0002474	BP	Up-regulated protein	Previouly Found	0.016262	Caffeine 
+GO:0002474	BP	Up-regulated protein	Previouly Found	0.003271	EGCG 
+GO:0002479	BP	Up-regulated protein	Previouly Found	0.015581	EGCG 
+GO:0002479	BP	Down-regulated protein	Previouly Found	0.012	Caffeine 
+GO:0002479	BP	Up-regulated protein	Previouly Found	0.011175	Caffeine 
+GO:0003680	MF	Down-regulated protein	Previouly Found	0.067222	Caffeine 
+GO:0003680	MF	Down-regulated protein	Previouly Found	0.064435	EGCG 
+GO:0003727	MF	Down-regulated protein	Previouly Found	0.018622	Caffeine 
+GO:0003727	MF	Up-regulated protein	Previouly Found	0.016467	EGCG 
+GO:0003727	MF	Down-regulated protein	Previouly Found	0.012509	EGCG 
+GO:0004298	MF	Up-regulated protein	Previouly Found	0.048381	Caffeine 
+GO:0004298	MF	Down-regulated protein	Previouly Found	0.043776	EGCG 
+GO:0004298	MF	Up-regulated protein	Previouly Found	0.012725	EGCG 
+GO:0005080	MF	Up-regulated protein	Previouly Found	0.029099	EGCG 
+GO:0005080	MF	Up-regulated protein	Previouly Found	0.004873	Caffeine 
+GO:0006094	BP	Up-regulated protein	Previouly Found	0.04184	EGCG 
+GO:0006094	BP	Down-regulated protein	Previouly Found	0.01346	Caffeine 
+GO:0006094	BP	Down-regulated protein	Previouly Found	0.004635	EGCG 
+GO:0006107	BP	Down-regulated protein	Previouly Found	0.148587	Caffeine 
+GO:0006107	BP	Down-regulated protein	Previouly Found	0.006667	EGCG 
+GO:0006284	BP	Down-regulated protein	Previouly Found	0.117335	Caffeine 
+GO:0006284	BP	Down-regulated protein	Previouly Found	0.005162	EGCG 
+GO:0006334	BP	Up-regulated protein	Previouly Found	0.053601	Caffeine 
+GO:0006334	BP	Up-regulated protein	Previouly Found	0.044223	EGCG 
+GO:0006364	BP	Down-regulated protein	Previouly Found	0.174769	Caffeine 
+GO:0006364	BP	Down-regulated protein	Previouly Found	0.032984	EGCG 
+GO:0006364	BP	Up-regulated protein	Previouly Found	0.008449	Caffeine 
+GO:0006364	BP	Up-regulated protein	Previouly Found	0.000368	EGCG 
+GO:0006401	BP	Down-regulated protein	Previouly Found	0.007968	Caffeine 
+GO:0006401	BP	Down-regulated protein	Previouly Found	0.000514	EGCG 
+GO:0006401	BP	Up-regulated protein	Previouly Found	4.04E-06	Caffeine 
+GO:0006401	BP	Up-regulated protein	Previouly Found	8.44E-07	EGCG 
+GO:0006402	BP	Down-regulated protein	Previouly Found	0.011074	Caffeine 
+GO:0006402	BP	Down-regulated protein	Previouly Found	0.000289	EGCG 
+GO:0006402	BP	Up-regulated protein	Previouly Found	1.07E-06	Caffeine 
+GO:0006402	BP	Up-regulated protein	Previouly Found	3.57E-07	EGCG 
+GO:0006413	BP	Down-regulated protein	Previouly Found	0.009596	Caffeine 
+GO:0006413	BP	Down-regulated protein	Previouly Found	0.00542	EGCG 
+GO:0006413	BP	Up-regulated protein	Previouly Found	0.000906	EGCG 
+GO:0006413	BP	Up-regulated protein	Previouly Found	6.48E-07	Caffeine 
+GO:0006521	BP	Up-regulated protein	Previouly Found	0.014165	EGCG 
+GO:0006521	BP	Down-regulated protein	Previouly Found	0.009459	Caffeine 
+GO:0006521	BP	Up-regulated protein	Previouly Found	0.008885	Caffeine 
+GO:0006605	BP	Down-regulated protein	Previouly Found	0.02171	EGCG 
+GO:0006605	BP	Down-regulated protein	Previouly Found	0.009909	Caffeine 
+GO:0006605	BP	Up-regulated protein	Previouly Found	0.001662	EGCG 
+GO:0006605	BP	Up-regulated protein	Previouly Found	8.18E-07	Caffeine 
+GO:0006612	BP	Down-regulated protein	Previouly Found	0.00176	EGCG 
+GO:0006612	BP	Down-regulated protein	Previouly Found	4.10E-05	Caffeine 
+GO:0006612	BP	Up-regulated protein	Previouly Found	1.36E-06	Caffeine 
+GO:0006612	BP	Up-regulated protein	Previouly Found	1.56E-07	EGCG 
+GO:0006613	BP	Down-regulated protein	Previouly Found	0.014917	Caffeine 
+GO:0006613	BP	Down-regulated protein	Previouly Found	5.16E-05	EGCG 
+GO:0006613	BP	Up-regulated protein	Previouly Found	8.02E-09	Caffeine 
+GO:0006613	BP	Up-regulated protein	Previouly Found	4.47E-09	EGCG 
+GO:0006614	BP	Down-regulated protein	Previouly Found	0.016692	Caffeine 
+GO:0006614	BP	Down-regulated protein	Previouly Found	5.42E-05	EGCG 
+GO:0006614	BP	Up-regulated protein	Previouly Found	5.40E-09	Caffeine 
+GO:0006614	BP	Up-regulated protein	Previouly Found	2.31E-09	EGCG 
+GO:0006734	BP	Down-regulated protein	Previouly Found	0.128849	EGCG 
+GO:0006734	BP	Up-regulated protein	Previouly Found	0.024909	EGCG 
+GO:0006734	BP	Down-regulated protein	Previouly Found	0.005325	Caffeine 
+GO:0006735	BP	Up-regulated protein	Previouly Found	0.009842	EGCG 
+GO:0015036	MF	Up-regulated protein	Previouly Found	0.002713	EGCG 
+GO:0016072	BP	Up-regulated protein	Previouly Found	0.020586	Caffeine 
+GO:0016072	BP	Down-regulated protein	Previouly Found	0.009243	Caffeine 
+GO:0016072	BP	Up-regulated protein	Previouly Found	0.000677	EGCG 
+GO:0016667	MF	Up-regulated protein	Previouly Found	0.002864	EGCG 
+GO:0016667	MF	Up-regulated protein	Previouly Found	0.000414	EGCG 
+GO:0017025	MF	Down-regulated protein	Previouly Found	0.139696	EGCG 
+GO:0017025	MF	Down-regulated protein	Previouly Found	0.034289	Caffeine 
+GO:0019319	BP	Down-regulated protein	Previouly Found	0.00765	Caffeine 
+GO:0019319	BP	Down-regulated protein	Previouly Found	0.003139	EGCG 
+GO:0019319	BP	Up-regulated protein	Previouly Found	0.00201	EGCG 
+GO:0019843	MF	Down-regulated protein	Previouly Found	0.019703	EGCG 
+GO:0019843	MF	Up-regulated protein	Previouly Found	0.006172	Caffeine 
+GO:0031145	BP	Up-regulated protein	Previouly Found	0.030575	EGCG 
+GO:0031145	BP	Up-regulated protein	Previouly Found	0.018842	Caffeine 
+GO:0031145	BP	Down-regulated protein	Previouly Found	0.013825	Caffeine 
+GO:0031146	BP	Down-regulated protein	Previouly Found	0.016977	Caffeine 
+GO:0031146	BP	Up-regulated protein	Previouly Found	0.016028	Caffeine 
+GO:0031146	BP	Up-regulated protein	Previouly Found	0.005206	EGCG 
+GO:0032206	BP	Down-regulated protein	Previouly Found	0.006509	EGCG 
+GO:0032206	BP	Down-regulated protein	Previouly Found	0.001405	Caffeine 
+GO:0032210	BP	Down-regulated protein	Previouly Found	0.007183	EGCG 
+GO:0032210	BP	Down-regulated protein	Previouly Found	0.000289	Caffeine 
+GO:0032212	BP	Down-regulated protein	Previouly Found	0.014262	Caffeine 
+GO:0032212	BP	Down-regulated protein	Previouly Found	0.003398	EGCG 
+GO:0033238	BP	Down-regulated protein	Previouly Found	0.014061	Caffeine 
+GO:0033238	BP	Up-regulated protein	Previouly Found	0.013538	EGCG 
+GO:0033238	BP	Up-regulated protein	Previouly Found	0.012896	Caffeine 
+GO:0035722	BP	Down-regulated protein	Previouly Found	0.010344	Caffeine 
+GO:0035722	BP	Down-regulated protein	Previouly Found	0.009147	EGCG 
+GO:0042254	BP	Down-regulated protein	Previouly Found	0.016135	Caffeine 
+GO:0042254	BP	Down-regulated protein	Previouly Found	0.014704	EGCG 
+GO:0042254	BP	Up-regulated protein	Previouly Found	0.014018	EGCG 
+GO:0042254	BP	Up-regulated protein	Previouly Found	0.008257	Caffeine 
+GO:0042590	BP	Down-regulated protein	Previouly Found	0.012903	Caffeine 
+GO:0042590	BP	Up-regulated protein	Previouly Found	0.012135	Caffeine 
+GO:0042590	BP	Up-regulated protein	Previouly Found	0.004952	EGCG 
+GO:0043618	BP	Down-regulated protein	Previouly Found	0.023213	Caffeine 
+GO:0043618	BP	Up-regulated protein	Previouly Found	0.021149	Caffeine 
+GO:0043618	BP	Up-regulated protein	Previouly Found	0.008281	EGCG 
+GO:0045047	BP	Down-regulated protein	Previouly Found	0.011556	Caffeine 
+GO:0045047	BP	Down-regulated protein	Previouly Found	7.81E-05	EGCG 
+GO:0045047	BP	Up-regulated protein	Previouly Found	1.19E-08	Caffeine 
+GO:0045047	BP	Up-regulated protein	Previouly Found	8.32E-09	EGCG 
+GO:0045815	BP	Down-regulated protein	Previouly Found	0.023129	EGCG 
+GO:0045815	BP	Up-regulated protein	Previouly Found	0.009553	EGCG 
+GO:0045815	BP	Down-regulated protein	Previouly Found	0.009243	Caffeine 
+GO:0045815	BP	Up-regulated protein	Previouly Found	0.00027	Caffeine 
+GO:0045898	BP	Up-regulated protein	Previouly Found	0.042695	EGCG 
+GO:0045898	BP	Down-regulated protein	Previouly Found	0.03919	EGCG 
+GO:0045898	BP	Up-regulated protein	Previouly Found	0.036856	Caffeine 
+GO:0045898	BP	Down-regulated protein	Previouly Found	0.00777	Caffeine 
+GO:0048027	MF	Up-regulated protein	Previouly Found	0.007244	Caffeine 
+GO:0048306	MF	Down-regulated protein	Previouly Found	0.102157	Caffeine 
+GO:0048306	MF	Down-regulated protein	Previouly Found	0.076571	EGCG 
+GO:0051123	BP	Down-regulated protein	Previouly Found	0.01153	Caffeine 
+GO:0051290	BP	Up-regulated protein	Previouly Found	0.095925	Caffeine 
+GO:0051436	BP	Up-regulated protein	Previouly Found	0.049958	EGCG 
+GO:0051436	BP	Up-regulated protein	Previouly Found	0.024985	Caffeine 
+GO:0051437	BP	Up-regulated protein	Previouly Found	0.052604	EGCG 
+GO:0051437	BP	Up-regulated protein	Previouly Found	0.025425	Caffeine 
+GO:0051438	BP	Up-regulated protein	Previouly Found	0.038479	Caffeine 
+GO:0051438	BP	Up-regulated protein	Previouly Found	0.011293	EGCG 
+GO:0051439	BP	Up-regulated protein	Previouly Found	0.027967	Caffeine 
+GO:0051439	BP	Up-regulated protein	Previouly Found	0.007893	EGCG 
+GO:0051443	BP	Up-regulated protein	Previouly Found	0.029644	Caffeine 
+GO:0051443	BP	Up-regulated protein	Previouly Found	0.008458	EGCG 
+GO:0051444	BP	Up-regulated protein	Previouly Found	0.026331	Caffeine 
+GO:0051444	BP	Up-regulated protein	Previouly Found	0.007352	EGCG 
+GO:0051575	MF	Down-regulated protein	Previouly Found	0.01136	Caffeine 
+GO:0051575	MF	Down-regulated protein	Previouly Found	0.008611	EGCG 
+GO:0051764	BP	Up-regulated protein	Previouly Found	0.028027	EGCG 
+GO:0060071	BP	Up-regulated protein	Previouly Found	0.043236	EGCG 
+GO:0060071	BP	Down-regulated protein	Previouly Found	0.020369	Caffeine 
+GO:0060071	BP	Down-regulated protein	Previouly Found	0.020005	EGCG 
+GO:0060071	BP	Up-regulated protein	Previouly Found	0.018574	Caffeine 
+GO:0060218	BP	Down-regulated protein	Previouly Found	0.014028	EGCG 
+GO:0060218	BP	Up-regulated protein	Previouly Found	0.013138	Caffeine 
+GO:0060218	BP	Up-regulated protein	Previouly Found	4.15E-05	EGCG 
+GO:0060218	BP	Down-regulated protein	Previouly Found	3.68E-05	Caffeine 
+GO:0060260	BP	Down-regulated protein	Previouly Found	0.009497	Caffeine 
+GO:0061418	BP	Down-regulated protein	Previouly Found	0.01275	Caffeine 
+GO:0061418	BP	Up-regulated protein	Previouly Found	0.011965	Caffeine 
+GO:0061418	BP	Up-regulated protein	Previouly Found	0.003531	EGCG 
+GO:0061615	BP	Up-regulated protein	Previouly Found	0.01193	EGCG 
+GO:0061620	BP	Up-regulated protein	Previouly Found	0.011979	EGCG 
+GO:0061621	BP	Up-regulated protein	Previouly Found	0.022891	EGCG 
+GO:0061718	BP	Up-regulated protein	Previouly Found	0.009803	EGCG 
+GO:0070003	MF	Up-regulated protein	Previouly Found	0.048381	Caffeine 
+GO:0070003	MF	Down-regulated protein	Previouly Found	0.043776	EGCG 
+GO:0070003	MF	Up-regulated protein	Previouly Found	0.006852	EGCG 
+GO:0070198	BP	Down-regulated protein	Previouly Found	0.00293	Caffeine 
+GO:0070198	BP	Down-regulated protein	Previouly Found	0.00273	EGCG 
+GO:0070671	BP	Down-regulated protein	Previouly Found	0.001256	Caffeine 
+GO:0070671	BP	Down-regulated protein	Previouly Found	0.000888	EGCG 
+GO:0070897	BP	Down-regulated protein	Previouly Found	0.000315	Caffeine 
+GO:0070972	BP	Down-regulated protein	Previouly Found	0.024414	Caffeine 
+GO:0070972	BP	Down-regulated protein	Previouly Found	0.000214	EGCG 
+GO:0070972	BP	Up-regulated protein	Previouly Found	7.95E-08	EGCG 
+GO:0070972	BP	Up-regulated protein	Previouly Found	6.96E-08	Caffeine 
+GO:0071349	BP	Down-regulated protein	Previouly Found	0.00116	Caffeine 
+GO:0071349	BP	Down-regulated protein	Previouly Found	0.000821	EGCG 
+GO:0072599	BP	Down-regulated protein	Previouly Found	0.013269	Caffeine 
+GO:0072599	BP	Down-regulated protein	Previouly Found	8.59E-05	EGCG 
+GO:0072599	BP	Up-regulated protein	Previouly Found	1.40E-08	Caffeine 
+GO:0072599	BP	Up-regulated protein	Previouly Found	1.11E-08	EGCG 
+GO:0090150	BP	Down-regulated protein	Previouly Found	0.01206	Caffeine 
+GO:0090150	BP	Down-regulated protein	Previouly Found	0.004941	EGCG 
+GO:0090150	BP	Up-regulated protein	Previouly Found	2.76E-05	EGCG 
+GO:0090150	BP	Up-regulated protein	Previouly Found	7.22E-07	Caffeine 
+GO:0090175	BP	Down-regulated protein	Previouly Found	0.020943	Caffeine 
+GO:0090175	BP	Down-regulated protein	Previouly Found	0.020601	EGCG 
+GO:0090175	BP	Up-regulated protein	Previouly Found	0.019085	Caffeine 
+GO:0090175	BP	Up-regulated protein	Previouly Found	0.000103	EGCG 
+GO:1901532	BP	Up-regulated protein	Previouly Found	0.013412	Caffeine 
+GO:1901532	BP	Up-regulated protein	Previouly Found	0.013272	EGCG 
+GO:1901532	BP	Down-regulated protein	Previouly Found	0.000921	Caffeine 
+GO:1902036	BP	Up-regulated protein	Previouly Found	0.010703	Caffeine 
+GO:1902036	BP	Up-regulated protein	Previouly Found	0.007883	EGCG 
+GO:1902036	BP	Down-regulated protein	Previouly Found	0.000602	Caffeine 
+GO:1904356	BP	Down-regulated protein	Previouly Found	0.008914	EGCG 
+GO:1904356	BP	Down-regulated protein	Previouly Found	0.000407	Caffeine 
+GO:1904358	BP	Down-regulated protein	Previouly Found	0.003878	EGCG 
+GO:1904358	BP	Down-regulated protein	Previouly Found	0.000543	Caffeine 
+GO:2000142	BP	Down-regulated protein	Previouly Found	0.016554	Caffeine 
+GO:2000736	BP	Up-regulated protein	Previouly Found	0.020848	Caffeine 
+GO:2000736	BP	Down-regulated protein	Previouly Found	0.002069	Caffeine 
+GO:2000736	BP	Up-regulated protein	Previouly Found	0.000131	EGCG 
