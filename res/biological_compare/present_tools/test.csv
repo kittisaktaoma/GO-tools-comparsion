@@ -1,0 +1,553 @@
+Term	Type	Database	Dataset
+molecular_function	MF	STRING	EGCG
+DNA binding	MF	STRING	EGCG
+RNA binding	MF	STRING	EGCG
+mRNA binding	MF	STRING	EGCG
+GTPase activity	MF	STRING	EGCG
+structural molecule activity	MF	STRING	EGCG
+transcription factor binding	MF	STRING	EGCG
+lyase activity	MF	STRING	EGCG
+ion binding	MF	STRING	EGCG
+molecular_function	MF	GOstat	EGCG
+DNA binding	MF	GOstat	EGCG
+RNA binding	MF	GOstat	EGCG
+GTPase activity	MF	GOstat	EGCG
+structural molecule activity	MF	GOstat	EGCG
+peptidase activity	MF	GOstat	EGCG
+lipid binding	MF	GOstat	EGCG
+oxidoreductase activity	MF	GOstat	EGCG
+ligase activity	MF	GOstat	EGCG
+transmembrane transporter activity	MF	GOstat	EGCG
+enzyme regulator activity	MF	GOstat	EGCG
+ion binding	MF	GOstat	EGCG
+immune system process	BP	GO::TermFinder	EGCG
+carbohydrate metabolic process	BP	GO::TermFinder	EGCG
+translation	BP	GO::TermFinder	EGCG
+protein folding	BP	GO::TermFinder	EGCG
+protein targeting	BP	GO::TermFinder	EGCG
+transport	BP	GO::TermFinder	EGCG
+response to stress	BP	GO::TermFinder	EGCG
+aging	BP	GO::TermFinder	EGCG
+biological_process	BP	GO::TermFinder	EGCG
+catabolic process	BP	GO::TermFinder	EGCG
+biosynthetic process	BP	GO::TermFinder	EGCG
+protein transport	BP	GO::TermFinder	EGCG
+vesicle-mediated transport	BP	GO::TermFinder	EGCG
+cellular component assembly	BP	GO::TermFinder	EGCG
+cellular nitrogen compound metaboli...	BP	GO::TermFinder	EGCG
+nucleobase-containing compound cata...	BP	GO::TermFinder	EGCG
+homeostatic process	BP	GO::TermFinder	EGCG
+small molecule metabolic process	BP	GO::TermFinder	EGCG
+symbiont process	BP	GO::TermFinder	EGCG
+chromosome organization	BP	GO::TermFinder	EGCG
+protein-containing complex assembly	BP	GO::TermFinder	EGCG
+reproduction	BP	g:Profiler	EGCG
+mitotic cell cycle	BP	g:Profiler	EGCG
+cell morphogenesis	BP	g:Profiler	EGCG
+immune system process	BP	g:Profiler	EGCG
+circulatory system process	BP	g:Profiler	EGCG
+carbohydrate metabolic process	BP	g:Profiler	EGCG
+generation of precursor metabolites...	BP	g:Profiler	EGCG
+DNA metabolic process	BP	g:Profiler	EGCG
+mRNA processing	BP	g:Profiler	EGCG
+tRNA metabolic process	BP	g:Profiler	EGCG
+translation	BP	g:Profiler	EGCG
+protein folding	BP	g:Profiler	EGCG
+cellular protein modification proce...	BP	g:Profiler	EGCG
+cellular amino acid metabolic proce...	BP	g:Profiler	EGCG
+protein targeting	BP	g:Profiler	EGCG
+lipid metabolic process	BP	g:Profiler	EGCG
+sulfur compound metabolic process	BP	g:Profiler	EGCG
+transport	BP	g:Profiler	EGCG
+nucleocytoplasmic transport	BP	g:Profiler	EGCG
+autophagy	BP	g:Profiler	EGCG
+response to stress	BP	g:Profiler	EGCG
+mitochondrion organization	BP	g:Profiler	EGCG
+plasma membrane organization	BP	g:Profiler	EGCG
+cytoskeleton organization	BP	g:Profiler	EGCG
+cell cycle	BP	g:Profiler	EGCG
+chromosome segregation	BP	g:Profiler	EGCG
+cell adhesion	BP	g:Profiler	EGCG
+signal transduction	BP	g:Profiler	EGCG
+cell-cell signaling	BP	g:Profiler	EGCG
+aging	BP	g:Profiler	EGCG
+biological_process	BP	g:Profiler	EGCG
+cell death	BP	g:Profiler	EGCG
+cell proliferation	BP	g:Profiler	EGCG
+catabolic process	BP	g:Profiler	EGCG
+biosynthetic process	BP	g:Profiler	EGCG
+embryo development	BP	g:Profiler	EGCG
+protein transport	BP	g:Profiler	EGCG
+vesicle-mediated transport	BP	g:Profiler	EGCG
+developmental maturation	BP	g:Profiler	EGCG
+cellular component assembly	BP	g:Profiler	EGCG
+ribonucleoprotein complex assembly	BP	g:Profiler	EGCG
+cell differentiation	BP	g:Profiler	EGCG
+extracellular matrix organization	BP	g:Profiler	EGCG
+cytoskeleton-dependent intracellula...	BP	g:Profiler	EGCG
+cell junction organization	BP	g:Profiler	EGCG
+cellular nitrogen compound metaboli...	BP	g:Profiler	EGCG
+nucleobase-containing compound cata...	BP	g:Profiler	EGCG
+growth	BP	g:Profiler	EGCG
+locomotion	BP	g:Profiler	EGCG
+ribosome biogenesis	BP	g:Profiler	EGCG
+homeostatic process	BP	g:Profiler	EGCG
+small molecule metabolic process	BP	g:Profiler	EGCG
+symbiont process	BP	g:Profiler	EGCG
+anatomical structure formation invo...	BP	g:Profiler	EGCG
+anatomical structure development	BP	g:Profiler	EGCG
+cell motility	BP	g:Profiler	EGCG
+nervous system process	BP	g:Profiler	EGCG
+chromosome organization	BP	g:Profiler	EGCG
+cell division	BP	g:Profiler	EGCG
+protein maturation	BP	g:Profiler	EGCG
+transmembrane transport	BP	g:Profiler	EGCG
+membrane organization	BP	g:Profiler	EGCG
+protein-containing complex assembly	BP	g:Profiler	EGCG
+molecular_function	MF	GENECODIS	EGCG
+DNA binding	MF	GENECODIS	EGCG
+RNA binding	MF	GENECODIS	EGCG
+mRNA binding	MF	GENECODIS	EGCG
+GTPase activity	MF	GENECODIS	EGCG
+structural molecule activity	MF	GENECODIS	EGCG
+transcription factor binding	MF	GENECODIS	EGCG
+oxidoreductase activity	MF	GENECODIS	EGCG
+hydrolase activity, acting on glyco...	MF	GENECODIS	EGCG
+lyase activity	MF	GENECODIS	EGCG
+isomerase activity	MF	GENECODIS	EGCG
+ATPase activity	MF	GENECODIS	EGCG
+enzyme binding	MF	GENECODIS	EGCG
+enzyme regulator activity	MF	GENECODIS	EGCG
+ion binding	MF	GENECODIS	EGCG
+nuclear chromosome	CC	BiNGO	EGCG
+cellular_component	CC	BiNGO	EGCG
+extracellular region	CC	BiNGO	EGCG
+intracellular	CC	BiNGO	EGCG
+nucleus	CC	BiNGO	EGCG
+nucleoplasm	CC	BiNGO	EGCG
+chromosome	CC	BiNGO	EGCG
+nucleolus	CC	BiNGO	EGCG
+cytoplasm	CC	BiNGO	EGCG
+cytosol	CC	BiNGO	EGCG
+ribosome	CC	BiNGO	EGCG
+cytoskeleton	CC	BiNGO	EGCG
+plasma membrane	CC	BiNGO	EGCG
+extracellular matrix	CC	BiNGO	EGCG
+cytoplasmic vesicle	CC	BiNGO	EGCG
+protein-containing complex	CC	BiNGO	EGCG
+organelle	CC	BiNGO	EGCG
+nuclear chromosome	CC	GOstat	EGCG
+cellular_component	CC	GOstat	EGCG
+extracellular region	CC	GOstat	EGCG
+intracellular	CC	GOstat	EGCG
+nucleus	CC	GOstat	EGCG
+nuclear envelope	CC	GOstat	EGCG
+nucleoplasm	CC	GOstat	EGCG
+chromosome	CC	GOstat	EGCG
+cytoplasm	CC	GOstat	EGCG
+mitochondrion	CC	GOstat	EGCG
+endoplasmic reticulum	CC	GOstat	EGCG
+cytosol	CC	GOstat	EGCG
+ribosome	CC	GOstat	EGCG
+cytoskeleton	CC	GOstat	EGCG
+plasma membrane	CC	GOstat	EGCG
+extracellular matrix	CC	GOstat	EGCG
+cytoplasmic vesicle	CC	GOstat	EGCG
+protein-containing complex	CC	GOstat	EGCG
+organelle	CC	GOstat	EGCG
+immune system process	BP	STRING	EGCG
+carbohydrate metabolic process	BP	STRING	EGCG
+DNA metabolic process	BP	STRING	EGCG
+mRNA processing	BP	STRING	EGCG
+translation	BP	STRING	EGCG
+protein folding	BP	STRING	EGCG
+protein targeting	BP	STRING	EGCG
+transport	BP	STRING	EGCG
+response to stress	BP	STRING	EGCG
+signal transduction	BP	STRING	EGCG
+aging	BP	STRING	EGCG
+biological_process	BP	STRING	EGCG
+cell death	BP	STRING	EGCG
+catabolic process	BP	STRING	EGCG
+biosynthetic process	BP	STRING	EGCG
+protein transport	BP	STRING	EGCG
+vesicle-mediated transport	BP	STRING	EGCG
+cellular component assembly	BP	STRING	EGCG
+ribonucleoprotein complex assembly	BP	STRING	EGCG
+cell differentiation	BP	STRING	EGCG
+cellular nitrogen compound metaboli...	BP	STRING	EGCG
+nucleobase-containing compound cata...	BP	STRING	EGCG
+ribosome biogenesis	BP	STRING	EGCG
+homeostatic process	BP	STRING	EGCG
+small molecule metabolic process	BP	STRING	EGCG
+symbiont process	BP	STRING	EGCG
+anatomical structure formation invo...	BP	STRING	EGCG
+anatomical structure development	BP	STRING	EGCG
+chromosome organization	BP	STRING	EGCG
+membrane organization	BP	STRING	EGCG
+protein-containing complex assembly	BP	STRING	EGCG
+molecular_function	MF	BiNGO	EGCG
+DNA binding	MF	BiNGO	EGCG
+RNA binding	MF	BiNGO	EGCG
+GTPase activity	MF	BiNGO	EGCG
+structural molecule activity	MF	BiNGO	EGCG
+transcription factor binding	MF	BiNGO	EGCG
+ion binding	MF	BiNGO	EGCG
+nuclear chromosome	CC	g:Profiler	EGCG
+cellular_component	CC	g:Profiler	EGCG
+extracellular region	CC	g:Profiler	EGCG
+extracellular space	CC	g:Profiler	EGCG
+intracellular	CC	g:Profiler	EGCG
+nucleus	CC	g:Profiler	EGCG
+nuclear envelope	CC	g:Profiler	EGCG
+nucleoplasm	CC	g:Profiler	EGCG
+chromosome	CC	g:Profiler	EGCG
+nucleolus	CC	g:Profiler	EGCG
+cytoplasm	CC	g:Profiler	EGCG
+mitochondrion	CC	g:Profiler	EGCG
+lysosome	CC	g:Profiler	EGCG
+endosome	CC	g:Profiler	EGCG
+vacuole	CC	g:Profiler	EGCG
+peroxisome	CC	g:Profiler	EGCG
+endoplasmic reticulum	CC	g:Profiler	EGCG
+Golgi apparatus	CC	g:Profiler	EGCG
+lipid droplet	CC	g:Profiler	EGCG
+microtubule organizing center	CC	g:Profiler	EGCG
+cytosol	CC	g:Profiler	EGCG
+ribosome	CC	g:Profiler	EGCG
+cytoskeleton	CC	g:Profiler	EGCG
+plasma membrane	CC	g:Profiler	EGCG
+cilium	CC	g:Profiler	EGCG
+extracellular matrix	CC	g:Profiler	EGCG
+cytoplasmic vesicle	CC	g:Profiler	EGCG
+protein-containing complex	CC	g:Profiler	EGCG
+organelle	CC	g:Profiler	EGCG
+cell morphogenesis	BP	GOstat	EGCG
+immune system process	BP	GOstat	EGCG
+carbohydrate metabolic process	BP	GOstat	EGCG
+generation of precursor metabolites...	BP	GOstat	EGCG
+DNA metabolic process	BP	GOstat	EGCG
+tRNA metabolic process	BP	GOstat	EGCG
+translation	BP	GOstat	EGCG
+protein folding	BP	GOstat	EGCG
+cellular amino acid metabolic proce...	BP	GOstat	EGCG
+sulfur compound metabolic process	BP	GOstat	EGCG
+transport	BP	GOstat	EGCG
+nucleocytoplasmic transport	BP	GOstat	EGCG
+response to stress	BP	GOstat	EGCG
+cytoskeleton organization	BP	GOstat	EGCG
+biological_process	BP	GOstat	EGCG
+cell death	BP	GOstat	EGCG
+catabolic process	BP	GOstat	EGCG
+biosynthetic process	BP	GOstat	EGCG
+protein transport	BP	GOstat	EGCG
+vesicle-mediated transport	BP	GOstat	EGCG
+cellular component assembly	BP	GOstat	EGCG
+ribonucleoprotein complex assembly	BP	GOstat	EGCG
+cell differentiation	BP	GOstat	EGCG
+cytoskeleton-dependent intracellula...	BP	GOstat	EGCG
+cell junction organization	BP	GOstat	EGCG
+cellular nitrogen compound metaboli...	BP	GOstat	EGCG
+nucleobase-containing compound cata...	BP	GOstat	EGCG
+locomotion	BP	GOstat	EGCG
+ribosome biogenesis	BP	GOstat	EGCG
+small molecule metabolic process	BP	GOstat	EGCG
+anatomical structure formation invo...	BP	GOstat	EGCG
+anatomical structure development	BP	GOstat	EGCG
+cell motility	BP	GOstat	EGCG
+chromosome organization	BP	GOstat	EGCG
+protein-containing complex assembly	BP	GOstat	EGCG
+nuclear chromosome	CC	PANTHER	EGCG
+cellular_component	CC	PANTHER	EGCG
+extracellular region	CC	PANTHER	EGCG
+extracellular space	CC	PANTHER	EGCG
+intracellular	CC	PANTHER	EGCG
+nucleus	CC	PANTHER	EGCG
+nucleoplasm	CC	PANTHER	EGCG
+chromosome	CC	PANTHER	EGCG
+nucleolus	CC	PANTHER	EGCG
+cytoplasm	CC	PANTHER	EGCG
+endoplasmic reticulum	CC	PANTHER	EGCG
+cytosol	CC	PANTHER	EGCG
+ribosome	CC	PANTHER	EGCG
+cytoskeleton	CC	PANTHER	EGCG
+cytoplasmic vesicle	CC	PANTHER	EGCG
+protein-containing complex	CC	PANTHER	EGCG
+organelle	CC	PANTHER	EGCG
+immune system process	BP	PANTHER	EGCG
+carbohydrate metabolic process	BP	PANTHER	EGCG
+translation	BP	PANTHER	EGCG
+protein folding	BP	PANTHER	EGCG
+protein targeting	BP	PANTHER	EGCG
+transport	BP	PANTHER	EGCG
+response to stress	BP	PANTHER	EGCG
+cytoskeleton organization	BP	PANTHER	EGCG
+aging	BP	PANTHER	EGCG
+biological_process	BP	PANTHER	EGCG
+catabolic process	BP	PANTHER	EGCG
+biosynthetic process	BP	PANTHER	EGCG
+protein transport	BP	PANTHER	EGCG
+vesicle-mediated transport	BP	PANTHER	EGCG
+cellular component assembly	BP	PANTHER	EGCG
+cellular nitrogen compound metaboli...	BP	PANTHER	EGCG
+nucleobase-containing compound cata...	BP	PANTHER	EGCG
+ribosome biogenesis	BP	PANTHER	EGCG
+homeostatic process	BP	PANTHER	EGCG
+small molecule metabolic process	BP	PANTHER	EGCG
+symbiont process	BP	PANTHER	EGCG
+chromosome organization	BP	PANTHER	EGCG
+membrane organization	BP	PANTHER	EGCG
+protein-containing complex assembly	BP	PANTHER	EGCG
+immune system process	BP	WebGestalt	EGCG
+carbohydrate metabolic process	BP	WebGestalt	EGCG
+DNA metabolic process	BP	WebGestalt	EGCG
+translation	BP	WebGestalt	EGCG
+protein targeting	BP	WebGestalt	EGCG
+transport	BP	WebGestalt	EGCG
+response to stress	BP	WebGestalt	EGCG
+signal transduction	BP	WebGestalt	EGCG
+biological_process	BP	WebGestalt	EGCG
+catabolic process	BP	WebGestalt	EGCG
+biosynthetic process	BP	WebGestalt	EGCG
+protein transport	BP	WebGestalt	EGCG
+vesicle-mediated transport	BP	WebGestalt	EGCG
+cellular component assembly	BP	WebGestalt	EGCG
+cellular nitrogen compound metaboli...	BP	WebGestalt	EGCG
+nucleobase-containing compound cata...	BP	WebGestalt	EGCG
+homeostatic process	BP	WebGestalt	EGCG
+small molecule metabolic process	BP	WebGestalt	EGCG
+symbiont process	BP	WebGestalt	EGCG
+chromosome organization	BP	WebGestalt	EGCG
+membrane organization	BP	WebGestalt	EGCG
+protein-containing complex assembly	BP	WebGestalt	EGCG
+molecular_function	MF	g:Profiler	EGCG
+DNA binding	MF	g:Profiler	EGCG
+RNA binding	MF	g:Profiler	EGCG
+mRNA binding	MF	g:Profiler	EGCG
+GTPase activity	MF	g:Profiler	EGCG
+helicase activity	MF	g:Profiler	EGCG
+structural molecule activity	MF	g:Profiler	EGCG
+cytoskeletal protein binding	MF	g:Profiler	EGCG
+transcription factor binding	MF	g:Profiler	EGCG
+translation factor activity, RNA bi...	MF	g:Profiler	EGCG
+peptidase activity	MF	g:Profiler	EGCG
+lipid binding	MF	g:Profiler	EGCG
+kinase activity	MF	g:Profiler	EGCG
+oxidoreductase activity	MF	g:Profiler	EGCG
+transferase activity, transferring ...	MF	g:Profiler	EGCG
+hydrolase activity, acting on glyco...	MF	g:Profiler	EGCG
+lyase activity	MF	g:Profiler	EGCG
+isomerase activity	MF	g:Profiler	EGCG
+ligase activity	MF	g:Profiler	EGCG
+ATPase activity	MF	g:Profiler	EGCG
+rRNA binding	MF	g:Profiler	EGCG
+enzyme binding	MF	g:Profiler	EGCG
+transmembrane transporter activity	MF	g:Profiler	EGCG
+enzyme regulator activity	MF	g:Profiler	EGCG
+ubiquitin-like protein binding	MF	g:Profiler	EGCG
+ion binding	MF	g:Profiler	EGCG
+nuclear chromosome	CC	GO::TermFinder	EGCG
+cellular_component	CC	GO::TermFinder	EGCG
+extracellular region	CC	GO::TermFinder	EGCG
+extracellular space	CC	GO::TermFinder	EGCG
+intracellular	CC	GO::TermFinder	EGCG
+nucleus	CC	GO::TermFinder	EGCG
+chromosome	CC	GO::TermFinder	EGCG
+cytoplasm	CC	GO::TermFinder	EGCG
+endoplasmic reticulum	CC	GO::TermFinder	EGCG
+cytosol	CC	GO::TermFinder	EGCG
+ribosome	CC	GO::TermFinder	EGCG
+cytoskeleton	CC	GO::TermFinder	EGCG
+cytoplasmic vesicle	CC	GO::TermFinder	EGCG
+protein-containing complex	CC	GO::TermFinder	EGCG
+organelle	CC	GO::TermFinder	EGCG
+translation	BP	BiNGO	EGCG
+cellular protein modification proce...	BP	BiNGO	EGCG
+biological_process	BP	BiNGO	EGCG
+catabolic process	BP	BiNGO	EGCG
+biosynthetic process	BP	BiNGO	EGCG
+cellular component assembly	BP	BiNGO	EGCG
+cellular nitrogen compound metaboli...	BP	BiNGO	EGCG
+chromosome organization	BP	BiNGO	EGCG
+protein-containing complex assembly	BP	BiNGO	EGCG
+nuclear chromosome	CC	WebGestalt	EGCG
+cellular_component	CC	WebGestalt	EGCG
+intracellular	CC	WebGestalt	EGCG
+nucleus	CC	WebGestalt	EGCG
+chromosome	CC	WebGestalt	EGCG
+nucleolus	CC	WebGestalt	EGCG
+cytoplasm	CC	WebGestalt	EGCG
+endoplasmic reticulum	CC	WebGestalt	EGCG
+cytosol	CC	WebGestalt	EGCG
+ribosome	CC	WebGestalt	EGCG
+cytoskeleton	CC	WebGestalt	EGCG
+cytoplasmic vesicle	CC	WebGestalt	EGCG
+protein-containing complex	CC	WebGestalt	EGCG
+organelle	CC	WebGestalt	EGCG
+nuclear chromosome	CC	STRING	EGCG
+cellular_component	CC	STRING	EGCG
+intracellular	CC	STRING	EGCG
+nucleus	CC	STRING	EGCG
+nucleoplasm	CC	STRING	EGCG
+chromosome	CC	STRING	EGCG
+nucleolus	CC	STRING	EGCG
+cytoplasm	CC	STRING	EGCG
+endoplasmic reticulum	CC	STRING	EGCG
+cytosol	CC	STRING	EGCG
+ribosome	CC	STRING	EGCG
+cytoskeleton	CC	STRING	EGCG
+cytoplasmic vesicle	CC	STRING	EGCG
+protein-containing complex	CC	STRING	EGCG
+organelle	CC	STRING	EGCG
+molecular_function	MF	WebGestalt	EGCG
+DNA binding	MF	WebGestalt	EGCG
+RNA binding	MF	WebGestalt	EGCG
+mRNA binding	MF	WebGestalt	EGCG
+GTPase activity	MF	WebGestalt	EGCG
+structural molecule activity	MF	WebGestalt	EGCG
+lyase activity	MF	WebGestalt	EGCG
+ion binding	MF	WebGestalt	EGCG
+molecular_function	MF	GO::TermFinder	EGCG
+DNA binding	MF	GO::TermFinder	EGCG
+RNA binding	MF	GO::TermFinder	EGCG
+mRNA binding	MF	GO::TermFinder	EGCG
+GTPase activity	MF	GO::TermFinder	EGCG
+structural molecule activity	MF	GO::TermFinder	EGCG
+lyase activity	MF	GO::TermFinder	EGCG
+ion binding	MF	GO::TermFinder	EGCG
+molecular_function	MF	PANTHER	EGCG
+DNA binding	MF	PANTHER	EGCG
+RNA binding	MF	PANTHER	EGCG
+mRNA binding	MF	PANTHER	EGCG
+structural molecule activity	MF	PANTHER	EGCG
+lyase activity	MF	PANTHER	EGCG
+ion binding	MF	PANTHER	EGCG
+molecular_function	MF	DAVID	EGCG
+RNA binding	MF	DAVID	EGCG
+GTPase activity	MF	DAVID	EGCG
+structural molecule activity	MF	DAVID	EGCG
+lyase activity	MF	DAVID	EGCG
+translation	BP	DAVID	EGCG
+protein folding	BP	DAVID	EGCG
+protein targeting	BP	DAVID	EGCG
+transport	BP	DAVID	EGCG
+biological_process	BP	DAVID	EGCG
+catabolic process	BP	DAVID	EGCG
+biosynthetic process	BP	DAVID	EGCG
+protein transport	BP	DAVID	EGCG
+cellular nitrogen compound metaboli...	BP	DAVID	EGCG
+nucleobase-containing compound cata...	BP	DAVID	EGCG
+ribosome biogenesis	BP	DAVID	EGCG
+homeostatic process	BP	DAVID	EGCG
+symbiont process	BP	DAVID	EGCG
+nuclear chromosome	CC	DAVID	EGCG
+cellular_component	CC	DAVID	EGCG
+extracellular region	CC	DAVID	EGCG
+extracellular space	CC	DAVID	EGCG
+intracellular	CC	DAVID	EGCG
+nucleus	CC	DAVID	EGCG
+nucleoplasm	CC	DAVID	EGCG
+chromosome	CC	DAVID	EGCG
+nucleolus	CC	DAVID	EGCG
+cytoplasm	CC	DAVID	EGCG
+cytosol	CC	DAVID	EGCG
+ribosome	CC	DAVID	EGCG
+extracellular matrix	CC	DAVID	EGCG
+cytoplasmic vesicle	CC	DAVID	EGCG
+protein-containing complex	CC	DAVID	EGCG
+organelle	CC	DAVID	EGCG
+nuclear chromosome	CC	GENECODIS	EGCG
+cellular_component	CC	GENECODIS	EGCG
+extracellular region	CC	GENECODIS	EGCG
+extracellular space	CC	GENECODIS	EGCG
+intracellular	CC	GENECODIS	EGCG
+nucleus	CC	GENECODIS	EGCG
+nuclear envelope	CC	GENECODIS	EGCG
+nucleoplasm	CC	GENECODIS	EGCG
+chromosome	CC	GENECODIS	EGCG
+nucleolus	CC	GENECODIS	EGCG
+cytoplasm	CC	GENECODIS	EGCG
+endoplasmic reticulum	CC	GENECODIS	EGCG
+cytosol	CC	GENECODIS	EGCG
+ribosome	CC	GENECODIS	EGCG
+cytoskeleton	CC	GENECODIS	EGCG
+plasma membrane	CC	GENECODIS	EGCG
+extracellular matrix	CC	GENECODIS	EGCG
+cytoplasmic vesicle	CC	GENECODIS	EGCG
+protein-containing complex	CC	GENECODIS	EGCG
+organelle	CC	GENECODIS	EGCG
+immune system process	BP	ClueGO	EGCG
+carbohydrate metabolic process	BP	ClueGO	EGCG
+DNA metabolic process	BP	ClueGO	EGCG
+translation	BP	ClueGO	EGCG
+protein folding	BP	ClueGO	EGCG
+protein targeting	BP	ClueGO	EGCG
+transport	BP	ClueGO	EGCG
+response to stress	BP	ClueGO	EGCG
+cytoskeleton organization	BP	ClueGO	EGCG
+signal transduction	BP	ClueGO	EGCG
+biological_process	BP	ClueGO	EGCG
+catabolic process	BP	ClueGO	EGCG
+biosynthetic process	BP	ClueGO	EGCG
+protein transport	BP	ClueGO	EGCG
+cellular component assembly	BP	ClueGO	EGCG
+cell differentiation	BP	ClueGO	EGCG
+cellular nitrogen compound metaboli...	BP	ClueGO	EGCG
+nucleobase-containing compound cata...	BP	ClueGO	EGCG
+homeostatic process	BP	ClueGO	EGCG
+small molecule metabolic process	BP	ClueGO	EGCG
+symbiont process	BP	ClueGO	EGCG
+anatomical structure development	BP	ClueGO	EGCG
+chromosome organization	BP	ClueGO	EGCG
+protein-containing complex assembly	BP	ClueGO	EGCG
+nuclear chromosome	CC	ClueGO	EGCG
+cellular_component	CC	ClueGO	EGCG
+intracellular	CC	ClueGO	EGCG
+nucleus	CC	ClueGO	EGCG
+chromosome	CC	ClueGO	EGCG
+cytoplasm	CC	ClueGO	EGCG
+endoplasmic reticulum	CC	ClueGO	EGCG
+cytosol	CC	ClueGO	EGCG
+ribosome	CC	ClueGO	EGCG
+cytoplasmic vesicle	CC	ClueGO	EGCG
+protein-containing complex	CC	ClueGO	EGCG
+organelle	CC	ClueGO	EGCG
+molecular_function	MF	ClueGO	EGCG
+DNA binding	MF	ClueGO	EGCG
+RNA binding	MF	ClueGO	EGCG
+mRNA binding	MF	ClueGO	EGCG
+ion binding	MF	ClueGO	EGCG
+mitotic cell cycle	BP	GENECODIS	EGCG
+immune system process	BP	GENECODIS	EGCG
+carbohydrate metabolic process	BP	GENECODIS	EGCG
+DNA metabolic process	BP	GENECODIS	EGCG
+mRNA processing	BP	GENECODIS	EGCG
+translation	BP	GENECODIS	EGCG
+protein folding	BP	GENECODIS	EGCG
+protein targeting	BP	GENECODIS	EGCG
+transport	BP	GENECODIS	EGCG
+response to stress	BP	GENECODIS	EGCG
+cytoskeleton organization	BP	GENECODIS	EGCG
+cell cycle	BP	GENECODIS	EGCG
+signal transduction	BP	GENECODIS	EGCG
+aging	BP	GENECODIS	EGCG
+biological_process	BP	GENECODIS	EGCG
+cell death	BP	GENECODIS	EGCG
+catabolic process	BP	GENECODIS	EGCG
+biosynthetic process	BP	GENECODIS	EGCG
+protein transport	BP	GENECODIS	EGCG
+vesicle-mediated transport	BP	GENECODIS	EGCG
+cellular component assembly	BP	GENECODIS	EGCG
+ribonucleoprotein complex assembly	BP	GENECODIS	EGCG
+cell differentiation	BP	GENECODIS	EGCG
+cellular nitrogen compound metaboli...	BP	GENECODIS	EGCG
+nucleobase-containing compound cata...	BP	GENECODIS	EGCG
+ribosome biogenesis	BP	GENECODIS	EGCG
+homeostatic process	BP	GENECODIS	EGCG
+small molecule metabolic process	BP	GENECODIS	EGCG
+symbiont process	BP	GENECODIS	EGCG
+anatomical structure formation invo...	BP	GENECODIS	EGCG
+anatomical structure development	BP	GENECODIS	EGCG
+chromosome organization	BP	GENECODIS	EGCG
+transmembrane transport	BP	GENECODIS	EGCG
+protein-containing complex assembly	BP	GENECODIS	EGCG
