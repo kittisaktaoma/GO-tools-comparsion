@@ -551,3 +551,657 @@ anatomical structure development	BP	GENECODIS	EGCG
 chromosome organization	BP	GENECODIS	EGCG
 transmembrane transport	BP	GENECODIS	EGCG
 protein-containing complex assembly	BP	GENECODIS	EGCG
+translation	BP	DAVID	Caffeine
+protein folding	BP	DAVID	Caffeine
+protein targeting	BP	DAVID	Caffeine
+transport	BP	DAVID	Caffeine
+biological_process	BP	DAVID	Caffeine
+catabolic process	BP	DAVID	Caffeine
+biosynthetic process	BP	DAVID	Caffeine
+protein transport	BP	DAVID	Caffeine
+cellular nitrogen compound metaboli...	BP	DAVID	Caffeine
+nucleobase-containing compound cata...	BP	DAVID	Caffeine
+ribosome biogenesis	BP	DAVID	Caffeine
+homeostatic process	BP	DAVID	Caffeine
+symbiont process	BP	DAVID	Caffeine
+nuclear chromosome	CC	DAVID	Caffeine
+cellular_component	CC	DAVID	Caffeine
+extracellular region	CC	DAVID	Caffeine
+extracellular space	CC	DAVID	Caffeine
+intracellular	CC	DAVID	Caffeine
+nucleus	CC	DAVID	Caffeine
+nucleoplasm	CC	DAVID	Caffeine
+chromosome	CC	DAVID	Caffeine
+nucleolus	CC	DAVID	Caffeine
+cytoplasm	CC	DAVID	Caffeine
+cytosol	CC	DAVID	Caffeine
+ribosome	CC	DAVID	Caffeine
+cytoskeleton	CC	DAVID	Caffeine
+extracellular matrix	CC	DAVID	Caffeine
+cytoplasmic vesicle	CC	DAVID	Caffeine
+protein-containing complex	CC	DAVID	Caffeine
+organelle	CC	DAVID	Caffeine
+molecular_function	MF	DAVID	Caffeine
+RNA binding	MF	DAVID	Caffeine
+structural molecule activity	MF	DAVID	Caffeine
+transcription factor binding	MF	DAVID	Caffeine
+lyase activity	MF	DAVID	Caffeine
+reproduction	BP	g:Profiler	Caffeine
+mitotic cell cycle	BP	g:Profiler	Caffeine
+cell morphogenesis	BP	g:Profiler	Caffeine
+immune system process	BP	g:Profiler	Caffeine
+circulatory system process	BP	g:Profiler	Caffeine
+carbohydrate metabolic process	BP	g:Profiler	Caffeine
+generation of precursor metabolites...	BP	g:Profiler	Caffeine
+DNA metabolic process	BP	g:Profiler	Caffeine
+mRNA processing	BP	g:Profiler	Caffeine
+tRNA metabolic process	BP	g:Profiler	Caffeine
+translation	BP	g:Profiler	Caffeine
+protein folding	BP	g:Profiler	Caffeine
+cellular protein modification proce...	BP	g:Profiler	Caffeine
+cellular amino acid metabolic proce...	BP	g:Profiler	Caffeine
+protein targeting	BP	g:Profiler	Caffeine
+lipid metabolic process	BP	g:Profiler	Caffeine
+sulfur compound metabolic process	BP	g:Profiler	Caffeine
+transport	BP	g:Profiler	Caffeine
+nucleocytoplasmic transport	BP	g:Profiler	Caffeine
+autophagy	BP	g:Profiler	Caffeine
+response to stress	BP	g:Profiler	Caffeine
+mitochondrion organization	BP	g:Profiler	Caffeine
+plasma membrane organization	BP	g:Profiler	Caffeine
+cytoskeleton organization	BP	g:Profiler	Caffeine
+cell cycle	BP	g:Profiler	Caffeine
+chromosome segregation	BP	g:Profiler	Caffeine
+cell adhesion	BP	g:Profiler	Caffeine
+signal transduction	BP	g:Profiler	Caffeine
+cell-cell signaling	BP	g:Profiler	Caffeine
+aging	BP	g:Profiler	Caffeine
+biological_process	BP	g:Profiler	Caffeine
+cell death	BP	g:Profiler	Caffeine
+cell proliferation	BP	g:Profiler	Caffeine
+catabolic process	BP	g:Profiler	Caffeine
+biosynthetic process	BP	g:Profiler	Caffeine
+embryo development	BP	g:Profiler	Caffeine
+protein transport	BP	g:Profiler	Caffeine
+vesicle-mediated transport	BP	g:Profiler	Caffeine
+developmental maturation	BP	g:Profiler	Caffeine
+cellular component assembly	BP	g:Profiler	Caffeine
+ribonucleoprotein complex assembly	BP	g:Profiler	Caffeine
+cell differentiation	BP	g:Profiler	Caffeine
+extracellular matrix organization	BP	g:Profiler	Caffeine
+cytoskeleton-dependent intracellula...	BP	g:Profiler	Caffeine
+cell junction organization	BP	g:Profiler	Caffeine
+cellular nitrogen compound metaboli...	BP	g:Profiler	Caffeine
+nucleobase-containing compound cata...	BP	g:Profiler	Caffeine
+growth	BP	g:Profiler	Caffeine
+locomotion	BP	g:Profiler	Caffeine
+ribosome biogenesis	BP	g:Profiler	Caffeine
+homeostatic process	BP	g:Profiler	Caffeine
+small molecule metabolic process	BP	g:Profiler	Caffeine
+symbiont process	BP	g:Profiler	Caffeine
+anatomical structure formation invo...	BP	g:Profiler	Caffeine
+anatomical structure development	BP	g:Profiler	Caffeine
+cell motility	BP	g:Profiler	Caffeine
+chromosome organization	BP	g:Profiler	Caffeine
+cell division	BP	g:Profiler	Caffeine
+protein maturation	BP	g:Profiler	Caffeine
+transmembrane transport	BP	g:Profiler	Caffeine
+membrane organization	BP	g:Profiler	Caffeine
+protein-containing complex assembly	BP	g:Profiler	Caffeine
+molecular_function	MF	GENECODIS	Caffeine
+DNA binding	MF	GENECODIS	Caffeine
+RNA binding	MF	GENECODIS	Caffeine
+mRNA binding	MF	GENECODIS	Caffeine
+GTPase activity	MF	GENECODIS	Caffeine
+structural molecule activity	MF	GENECODIS	Caffeine
+oxidoreductase activity	MF	GENECODIS	Caffeine
+hydrolase activity, acting on glyco...	MF	GENECODIS	Caffeine
+lyase activity	MF	GENECODIS	Caffeine
+isomerase activity	MF	GENECODIS	Caffeine
+enzyme binding	MF	GENECODIS	Caffeine
+enzyme regulator activity	MF	GENECODIS	Caffeine
+ion binding	MF	GENECODIS	Caffeine
+molecular_function	MF	g:Profiler	Caffeine
+DNA binding	MF	g:Profiler	Caffeine
+RNA binding	MF	g:Profiler	Caffeine
+mRNA binding	MF	g:Profiler	Caffeine
+GTPase activity	MF	g:Profiler	Caffeine
+structural molecule activity	MF	g:Profiler	Caffeine
+cytoskeletal protein binding	MF	g:Profiler	Caffeine
+transcription factor binding	MF	g:Profiler	Caffeine
+translation factor activity, RNA bi...	MF	g:Profiler	Caffeine
+peptidase activity	MF	g:Profiler	Caffeine
+lipid binding	MF	g:Profiler	Caffeine
+kinase activity	MF	g:Profiler	Caffeine
+oxidoreductase activity	MF	g:Profiler	Caffeine
+transferase activity, transferring ...	MF	g:Profiler	Caffeine
+hydrolase activity, acting on glyco...	MF	g:Profiler	Caffeine
+lyase activity	MF	g:Profiler	Caffeine
+isomerase activity	MF	g:Profiler	Caffeine
+ligase activity	MF	g:Profiler	Caffeine
+ATPase activity	MF	g:Profiler	Caffeine
+rRNA binding	MF	g:Profiler	Caffeine
+enzyme binding	MF	g:Profiler	Caffeine
+transmembrane transporter activity	MF	g:Profiler	Caffeine
+enzyme regulator activity	MF	g:Profiler	Caffeine
+ubiquitin-like protein binding	MF	g:Profiler	Caffeine
+ion binding	MF	g:Profiler	Caffeine
+molecular_function	MF	STRING	Caffeine
+DNA binding	MF	STRING	Caffeine
+RNA binding	MF	STRING	Caffeine
+mRNA binding	MF	STRING	Caffeine
+GTPase activity	MF	STRING	Caffeine
+structural molecule activity	MF	STRING	Caffeine
+transcription factor binding	MF	STRING	Caffeine
+translation factor activity, RNA bi...	MF	STRING	Caffeine
+lyase activity	MF	STRING	Caffeine
+ATPase activity	MF	STRING	Caffeine
+enzyme binding	MF	STRING	Caffeine
+enzyme regulator activity	MF	STRING	Caffeine
+ion binding	MF	STRING	Caffeine
+molecular_function	MF	WebGestalt	Caffeine
+DNA binding	MF	WebGestalt	Caffeine
+RNA binding	MF	WebGestalt	Caffeine
+mRNA binding	MF	WebGestalt	Caffeine
+structural molecule activity	MF	WebGestalt	Caffeine
+lyase activity	MF	WebGestalt	Caffeine
+ATPase activity	MF	WebGestalt	Caffeine
+ion binding	MF	WebGestalt	Caffeine
+reproduction	BP	ClueGO	Caffeine
+immune system process	BP	ClueGO	Caffeine
+circulatory system process	BP	ClueGO	Caffeine
+carbohydrate metabolic process	BP	ClueGO	Caffeine
+DNA metabolic process	BP	ClueGO	Caffeine
+translation	BP	ClueGO	Caffeine
+protein folding	BP	ClueGO	Caffeine
+cellular amino acid metabolic proce...	BP	ClueGO	Caffeine
+protein targeting	BP	ClueGO	Caffeine
+transport	BP	ClueGO	Caffeine
+response to stress	BP	ClueGO	Caffeine
+cytoskeleton organization	BP	ClueGO	Caffeine
+cell adhesion	BP	ClueGO	Caffeine
+signal transduction	BP	ClueGO	Caffeine
+aging	BP	ClueGO	Caffeine
+biological_process	BP	ClueGO	Caffeine
+cell proliferation	BP	ClueGO	Caffeine
+catabolic process	BP	ClueGO	Caffeine
+biosynthetic process	BP	ClueGO	Caffeine
+protein transport	BP	ClueGO	Caffeine
+cellular component assembly	BP	ClueGO	Caffeine
+ribonucleoprotein complex assembly	BP	ClueGO	Caffeine
+cell differentiation	BP	ClueGO	Caffeine
+cellular nitrogen compound metaboli...	BP	ClueGO	Caffeine
+nucleobase-containing compound cata...	BP	ClueGO	Caffeine
+ribosome biogenesis	BP	ClueGO	Caffeine
+homeostatic process	BP	ClueGO	Caffeine
+small molecule metabolic process	BP	ClueGO	Caffeine
+symbiont process	BP	ClueGO	Caffeine
+anatomical structure formation invo...	BP	ClueGO	Caffeine
+anatomical structure development	BP	ClueGO	Caffeine
+chromosome organization	BP	ClueGO	Caffeine
+transmembrane transport	BP	ClueGO	Caffeine
+membrane organization	BP	ClueGO	Caffeine
+protein-containing complex assembly	BP	ClueGO	Caffeine
+nuclear chromosome	CC	g:Profiler	Caffeine
+cellular_component	CC	g:Profiler	Caffeine
+extracellular region	CC	g:Profiler	Caffeine
+extracellular space	CC	g:Profiler	Caffeine
+intracellular	CC	g:Profiler	Caffeine
+nucleus	CC	g:Profiler	Caffeine
+nuclear envelope	CC	g:Profiler	Caffeine
+nucleoplasm	CC	g:Profiler	Caffeine
+chromosome	CC	g:Profiler	Caffeine
+nucleolus	CC	g:Profiler	Caffeine
+cytoplasm	CC	g:Profiler	Caffeine
+mitochondrion	CC	g:Profiler	Caffeine
+lysosome	CC	g:Profiler	Caffeine
+endosome	CC	g:Profiler	Caffeine
+vacuole	CC	g:Profiler	Caffeine
+peroxisome	CC	g:Profiler	Caffeine
+endoplasmic reticulum	CC	g:Profiler	Caffeine
+Golgi apparatus	CC	g:Profiler	Caffeine
+lipid droplet	CC	g:Profiler	Caffeine
+microtubule organizing center	CC	g:Profiler	Caffeine
+cytosol	CC	g:Profiler	Caffeine
+ribosome	CC	g:Profiler	Caffeine
+cytoskeleton	CC	g:Profiler	Caffeine
+plasma membrane	CC	g:Profiler	Caffeine
+cilium	CC	g:Profiler	Caffeine
+extracellular matrix	CC	g:Profiler	Caffeine
+cytoplasmic vesicle	CC	g:Profiler	Caffeine
+protein-containing complex	CC	g:Profiler	Caffeine
+organelle	CC	g:Profiler	Caffeine
+cellular_component	CC	GOstat	Caffeine
+extracellular region	CC	GOstat	Caffeine
+intracellular	CC	GOstat	Caffeine
+nucleus	CC	GOstat	Caffeine
+nuclear envelope	CC	GOstat	Caffeine
+nucleoplasm	CC	GOstat	Caffeine
+chromosome	CC	GOstat	Caffeine
+nucleolus	CC	GOstat	Caffeine
+cytoplasm	CC	GOstat	Caffeine
+endoplasmic reticulum	CC	GOstat	Caffeine
+cytosol	CC	GOstat	Caffeine
+ribosome	CC	GOstat	Caffeine
+cytoskeleton	CC	GOstat	Caffeine
+extracellular matrix	CC	GOstat	Caffeine
+cytoplasmic vesicle	CC	GOstat	Caffeine
+protein-containing complex	CC	GOstat	Caffeine
+organelle	CC	GOstat	Caffeine
+nuclear chromosome	CC	GO::TermFinder	Caffeine
+cellular_component	CC	GO::TermFinder	Caffeine
+extracellular region	CC	GO::TermFinder	Caffeine
+extracellular space	CC	GO::TermFinder	Caffeine
+intracellular	CC	GO::TermFinder	Caffeine
+nucleus	CC	GO::TermFinder	Caffeine
+chromosome	CC	GO::TermFinder	Caffeine
+cytoplasm	CC	GO::TermFinder	Caffeine
+endoplasmic reticulum	CC	GO::TermFinder	Caffeine
+cytosol	CC	GO::TermFinder	Caffeine
+ribosome	CC	GO::TermFinder	Caffeine
+cytoskeleton	CC	GO::TermFinder	Caffeine
+cytoplasmic vesicle	CC	GO::TermFinder	Caffeine
+protein-containing complex	CC	GO::TermFinder	Caffeine
+organelle	CC	GO::TermFinder	Caffeine
+nuclear chromosome	CC	GENECODIS	Caffeine
+cellular_component	CC	GENECODIS	Caffeine
+extracellular region	CC	GENECODIS	Caffeine
+extracellular space	CC	GENECODIS	Caffeine
+intracellular	CC	GENECODIS	Caffeine
+nucleus	CC	GENECODIS	Caffeine
+nuclear envelope	CC	GENECODIS	Caffeine
+nucleoplasm	CC	GENECODIS	Caffeine
+chromosome	CC	GENECODIS	Caffeine
+nucleolus	CC	GENECODIS	Caffeine
+cytoplasm	CC	GENECODIS	Caffeine
+endoplasmic reticulum	CC	GENECODIS	Caffeine
+lipid droplet	CC	GENECODIS	Caffeine
+cytosol	CC	GENECODIS	Caffeine
+ribosome	CC	GENECODIS	Caffeine
+cytoskeleton	CC	GENECODIS	Caffeine
+extracellular matrix	CC	GENECODIS	Caffeine
+cytoplasmic vesicle	CC	GENECODIS	Caffeine
+protein-containing complex	CC	GENECODIS	Caffeine
+organelle	CC	GENECODIS	Caffeine
+mitotic cell cycle	BP	GENECODIS	Caffeine
+immune system process	BP	GENECODIS	Caffeine
+circulatory system process	BP	GENECODIS	Caffeine
+carbohydrate metabolic process	BP	GENECODIS	Caffeine
+DNA metabolic process	BP	GENECODIS	Caffeine
+mRNA processing	BP	GENECODIS	Caffeine
+translation	BP	GENECODIS	Caffeine
+protein folding	BP	GENECODIS	Caffeine
+cellular amino acid metabolic proce...	BP	GENECODIS	Caffeine
+protein targeting	BP	GENECODIS	Caffeine
+transport	BP	GENECODIS	Caffeine
+response to stress	BP	GENECODIS	Caffeine
+cytoskeleton organization	BP	GENECODIS	Caffeine
+cell cycle	BP	GENECODIS	Caffeine
+signal transduction	BP	GENECODIS	Caffeine
+aging	BP	GENECODIS	Caffeine
+biological_process	BP	GENECODIS	Caffeine
+catabolic process	BP	GENECODIS	Caffeine
+biosynthetic process	BP	GENECODIS	Caffeine
+embryo development	BP	GENECODIS	Caffeine
+protein transport	BP	GENECODIS	Caffeine
+vesicle-mediated transport	BP	GENECODIS	Caffeine
+cellular component assembly	BP	GENECODIS	Caffeine
+ribonucleoprotein complex assembly	BP	GENECODIS	Caffeine
+cell differentiation	BP	GENECODIS	Caffeine
+cell junction organization	BP	GENECODIS	Caffeine
+cellular nitrogen compound metaboli...	BP	GENECODIS	Caffeine
+nucleobase-containing compound cata...	BP	GENECODIS	Caffeine
+ribosome biogenesis	BP	GENECODIS	Caffeine
+homeostatic process	BP	GENECODIS	Caffeine
+small molecule metabolic process	BP	GENECODIS	Caffeine
+symbiont process	BP	GENECODIS	Caffeine
+anatomical structure development	BP	GENECODIS	Caffeine
+chromosome organization	BP	GENECODIS	Caffeine
+transmembrane transport	BP	GENECODIS	Caffeine
+protein-containing complex assembly	BP	GENECODIS	Caffeine
+cell morphogenesis	BP	GOstat	Caffeine
+immune system process	BP	GOstat	Caffeine
+carbohydrate metabolic process	BP	GOstat	Caffeine
+generation of precursor metabolites...	BP	GOstat	Caffeine
+DNA metabolic process	BP	GOstat	Caffeine
+translation	BP	GOstat	Caffeine
+protein folding	BP	GOstat	Caffeine
+cellular amino acid metabolic proce...	BP	GOstat	Caffeine
+sulfur compound metabolic process	BP	GOstat	Caffeine
+transport	BP	GOstat	Caffeine
+nucleocytoplasmic transport	BP	GOstat	Caffeine
+response to stress	BP	GOstat	Caffeine
+cytoskeleton organization	BP	GOstat	Caffeine
+biological_process	BP	GOstat	Caffeine
+cell death	BP	GOstat	Caffeine
+catabolic process	BP	GOstat	Caffeine
+biosynthetic process	BP	GOstat	Caffeine
+protein transport	BP	GOstat	Caffeine
+vesicle-mediated transport	BP	GOstat	Caffeine
+cellular component assembly	BP	GOstat	Caffeine
+ribonucleoprotein complex assembly	BP	GOstat	Caffeine
+cell differentiation	BP	GOstat	Caffeine
+cytoskeleton-dependent intracellula...	BP	GOstat	Caffeine
+cell junction organization	BP	GOstat	Caffeine
+cellular nitrogen compound metaboli...	BP	GOstat	Caffeine
+nucleobase-containing compound cata...	BP	GOstat	Caffeine
+locomotion	BP	GOstat	Caffeine
+ribosome biogenesis	BP	GOstat	Caffeine
+small molecule metabolic process	BP	GOstat	Caffeine
+anatomical structure formation invo...	BP	GOstat	Caffeine
+anatomical structure development	BP	GOstat	Caffeine
+chromosome organization	BP	GOstat	Caffeine
+protein-containing complex assembly	BP	GOstat	Caffeine
+immune system process	BP	STRING	Caffeine
+circulatory system process	BP	STRING	Caffeine
+carbohydrate metabolic process	BP	STRING	Caffeine
+DNA metabolic process	BP	STRING	Caffeine
+mRNA processing	BP	STRING	Caffeine
+translation	BP	STRING	Caffeine
+protein folding	BP	STRING	Caffeine
+cellular protein modification proce...	BP	STRING	Caffeine
+protein targeting	BP	STRING	Caffeine
+transport	BP	STRING	Caffeine
+response to stress	BP	STRING	Caffeine
+cytoskeleton organization	BP	STRING	Caffeine
+signal transduction	BP	STRING	Caffeine
+aging	BP	STRING	Caffeine
+biological_process	BP	STRING	Caffeine
+catabolic process	BP	STRING	Caffeine
+biosynthetic process	BP	STRING	Caffeine
+protein transport	BP	STRING	Caffeine
+vesicle-mediated transport	BP	STRING	Caffeine
+cellular component assembly	BP	STRING	Caffeine
+ribonucleoprotein complex assembly	BP	STRING	Caffeine
+cellular nitrogen compound metaboli...	BP	STRING	Caffeine
+nucleobase-containing compound cata...	BP	STRING	Caffeine
+ribosome biogenesis	BP	STRING	Caffeine
+homeostatic process	BP	STRING	Caffeine
+small molecule metabolic process	BP	STRING	Caffeine
+symbiont process	BP	STRING	Caffeine
+chromosome organization	BP	STRING	Caffeine
+transmembrane transport	BP	STRING	Caffeine
+membrane organization	BP	STRING	Caffeine
+protein-containing complex assembly	BP	STRING	Caffeine
+reproduction	BP	WebGestalt	Caffeine
+immune system process	BP	WebGestalt	Caffeine
+carbohydrate metabolic process	BP	WebGestalt	Caffeine
+DNA metabolic process	BP	WebGestalt	Caffeine
+translation	BP	WebGestalt	Caffeine
+protein targeting	BP	WebGestalt	Caffeine
+transport	BP	WebGestalt	Caffeine
+response to stress	BP	WebGestalt	Caffeine
+cell adhesion	BP	WebGestalt	Caffeine
+signal transduction	BP	WebGestalt	Caffeine
+biological_process	BP	WebGestalt	Caffeine
+catabolic process	BP	WebGestalt	Caffeine
+biosynthetic process	BP	WebGestalt	Caffeine
+protein transport	BP	WebGestalt	Caffeine
+vesicle-mediated transport	BP	WebGestalt	Caffeine
+cellular component assembly	BP	WebGestalt	Caffeine
+ribonucleoprotein complex assembly	BP	WebGestalt	Caffeine
+cell differentiation	BP	WebGestalt	Caffeine
+cellular nitrogen compound metaboli...	BP	WebGestalt	Caffeine
+nucleobase-containing compound cata...	BP	WebGestalt	Caffeine
+ribosome biogenesis	BP	WebGestalt	Caffeine
+homeostatic process	BP	WebGestalt	Caffeine
+small molecule metabolic process	BP	WebGestalt	Caffeine
+symbiont process	BP	WebGestalt	Caffeine
+anatomical structure formation invo...	BP	WebGestalt	Caffeine
+anatomical structure development	BP	WebGestalt	Caffeine
+chromosome organization	BP	WebGestalt	Caffeine
+protein-containing complex assembly	BP	WebGestalt	Caffeine
+molecular_function	MF	ClueGO	Caffeine
+DNA binding	MF	ClueGO	Caffeine
+RNA binding	MF	ClueGO	Caffeine
+mRNA binding	MF	ClueGO	Caffeine
+structural molecule activity	MF	ClueGO	Caffeine
+ion binding	MF	ClueGO	Caffeine
+nuclear chromosome	CC	WebGestalt	Caffeine
+cellular_component	CC	WebGestalt	Caffeine
+intracellular	CC	WebGestalt	Caffeine
+nucleus	CC	WebGestalt	Caffeine
+chromosome	CC	WebGestalt	Caffeine
+nucleolus	CC	WebGestalt	Caffeine
+cytoplasm	CC	WebGestalt	Caffeine
+endoplasmic reticulum	CC	WebGestalt	Caffeine
+cytosol	CC	WebGestalt	Caffeine
+ribosome	CC	WebGestalt	Caffeine
+cytoskeleton	CC	WebGestalt	Caffeine
+cytoplasmic vesicle	CC	WebGestalt	Caffeine
+protein-containing complex	CC	WebGestalt	Caffeine
+organelle	CC	WebGestalt	Caffeine
+molecular_function	MF	GOstat	Caffeine
+DNA binding	MF	GOstat	Caffeine
+RNA binding	MF	GOstat	Caffeine
+GTPase activity	MF	GOstat	Caffeine
+structural molecule activity	MF	GOstat	Caffeine
+peptidase activity	MF	GOstat	Caffeine
+oxidoreductase activity	MF	GOstat	Caffeine
+enzyme regulator activity	MF	GOstat	Caffeine
+ion binding	MF	GOstat	Caffeine
+immune system process	BP	GO::TermFinder	Caffeine
+translation	BP	GO::TermFinder	Caffeine
+protein folding	BP	GO::TermFinder	Caffeine
+protein targeting	BP	GO::TermFinder	Caffeine
+transport	BP	GO::TermFinder	Caffeine
+biological_process	BP	GO::TermFinder	Caffeine
+catabolic process	BP	GO::TermFinder	Caffeine
+biosynthetic process	BP	GO::TermFinder	Caffeine
+protein transport	BP	GO::TermFinder	Caffeine
+vesicle-mediated transport	BP	GO::TermFinder	Caffeine
+cellular component assembly	BP	GO::TermFinder	Caffeine
+cell differentiation	BP	GO::TermFinder	Caffeine
+cellular nitrogen compound metaboli...	BP	GO::TermFinder	Caffeine
+nucleobase-containing compound cata...	BP	GO::TermFinder	Caffeine
+symbiont process	BP	GO::TermFinder	Caffeine
+anatomical structure development	BP	GO::TermFinder	Caffeine
+chromosome organization	BP	GO::TermFinder	Caffeine
+protein-containing complex assembly	BP	GO::TermFinder	Caffeine
+mRNA processing	BP	BiNGO	Caffeine
+translation	BP	BiNGO	Caffeine
+protein folding	BP	BiNGO	Caffeine
+cellular protein modification proce...	BP	BiNGO	Caffeine
+biological_process	BP	BiNGO	Caffeine
+catabolic process	BP	BiNGO	Caffeine
+biosynthetic process	BP	BiNGO	Caffeine
+cellular component assembly	BP	BiNGO	Caffeine
+cell differentiation	BP	BiNGO	Caffeine
+cellular nitrogen compound metaboli...	BP	BiNGO	Caffeine
+ribosome biogenesis	BP	BiNGO	Caffeine
+anatomical structure development	BP	BiNGO	Caffeine
+chromosome organization	BP	BiNGO	Caffeine
+protein-containing complex assembly	BP	BiNGO	Caffeine
+molecular_function	MF	GO::TermFinder	Caffeine
+DNA binding	MF	GO::TermFinder	Caffeine
+RNA binding	MF	GO::TermFinder	Caffeine
+mRNA binding	MF	GO::TermFinder	Caffeine
+structural molecule activity	MF	GO::TermFinder	Caffeine
+enzyme regulator activity	MF	GO::TermFinder	Caffeine
+ion binding	MF	GO::TermFinder	Caffeine
+molecular_function	MF	BiNGO	Caffeine
+DNA binding	MF	BiNGO	Caffeine
+RNA binding	MF	BiNGO	Caffeine
+GTPase activity	MF	BiNGO	Caffeine
+structural molecule activity	MF	BiNGO	Caffeine
+transcription factor binding	MF	BiNGO	Caffeine
+enzyme binding	MF	BiNGO	Caffeine
+ion binding	MF	BiNGO	Caffeine
+nuclear chromosome	CC	STRING	Caffeine
+cellular_component	CC	STRING	Caffeine
+intracellular	CC	STRING	Caffeine
+nucleus	CC	STRING	Caffeine
+nuclear envelope	CC	STRING	Caffeine
+nucleoplasm	CC	STRING	Caffeine
+chromosome	CC	STRING	Caffeine
+nucleolus	CC	STRING	Caffeine
+cytoplasm	CC	STRING	Caffeine
+endoplasmic reticulum	CC	STRING	Caffeine
+lipid droplet	CC	STRING	Caffeine
+cytosol	CC	STRING	Caffeine
+ribosome	CC	STRING	Caffeine
+cytoskeleton	CC	STRING	Caffeine
+cytoplasmic vesicle	CC	STRING	Caffeine
+protein-containing complex	CC	STRING	Caffeine
+organelle	CC	STRING	Caffeine
+nuclear chromosome	CC	BiNGO	Caffeine
+cellular_component	CC	BiNGO	Caffeine
+extracellular region	CC	BiNGO	Caffeine
+intracellular	CC	BiNGO	Caffeine
+nucleus	CC	BiNGO	Caffeine
+nuclear envelope	CC	BiNGO	Caffeine
+nucleoplasm	CC	BiNGO	Caffeine
+chromosome	CC	BiNGO	Caffeine
+nucleolus	CC	BiNGO	Caffeine
+cytoplasm	CC	BiNGO	Caffeine
+cytosol	CC	BiNGO	Caffeine
+ribosome	CC	BiNGO	Caffeine
+cytoskeleton	CC	BiNGO	Caffeine
+extracellular matrix	CC	BiNGO	Caffeine
+cytoplasmic vesicle	CC	BiNGO	Caffeine
+protein-containing complex	CC	BiNGO	Caffeine
+organelle	CC	BiNGO	Caffeine
+nuclear chromosome	CC	ClueGO	Caffeine
+cellular_component	CC	ClueGO	Caffeine
+intracellular	CC	ClueGO	Caffeine
+nucleus	CC	ClueGO	Caffeine
+chromosome	CC	ClueGO	Caffeine
+cytoplasm	CC	ClueGO	Caffeine
+endoplasmic reticulum	CC	ClueGO	Caffeine
+lipid droplet	CC	ClueGO	Caffeine
+cytosol	CC	ClueGO	Caffeine
+ribosome	CC	ClueGO	Caffeine
+plasma membrane	CC	ClueGO	Caffeine
+cilium	CC	ClueGO	Caffeine
+cytoplasmic vesicle	CC	ClueGO	Caffeine
+protein-containing complex	CC	ClueGO	Caffeine
+organelle	CC	ClueGO	Caffeine
+molecular_function	MF	PANTHER	Caffeine
+DNA binding	MF	PANTHER	Caffeine
+RNA binding	MF	PANTHER	Caffeine
+mRNA binding	MF	PANTHER	Caffeine
+GTPase activity	MF	PANTHER	Caffeine
+structural molecule activity	MF	PANTHER	Caffeine
+lyase activity	MF	PANTHER	Caffeine
+enzyme binding	MF	PANTHER	Caffeine
+enzyme regulator activity	MF	PANTHER	Caffeine
+ion binding	MF	PANTHER	Caffeine
+mitotic cell cycle	BP	PANTHER	Caffeine
+immune system process	BP	PANTHER	Caffeine
+carbohydrate metabolic process	BP	PANTHER	Caffeine
+DNA metabolic process	BP	PANTHER	Caffeine
+translation	BP	PANTHER	Caffeine
+protein folding	BP	PANTHER	Caffeine
+protein targeting	BP	PANTHER	Caffeine
+transport	BP	PANTHER	Caffeine
+response to stress	BP	PANTHER	Caffeine
+plasma membrane organization	BP	PANTHER	Caffeine
+cytoskeleton organization	BP	PANTHER	Caffeine
+cell cycle	BP	PANTHER	Caffeine
+signal transduction	BP	PANTHER	Caffeine
+aging	BP	PANTHER	Caffeine
+biological_process	BP	PANTHER	Caffeine
+catabolic process	BP	PANTHER	Caffeine
+biosynthetic process	BP	PANTHER	Caffeine
+protein transport	BP	PANTHER	Caffeine
+vesicle-mediated transport	BP	PANTHER	Caffeine
+cellular component assembly	BP	PANTHER	Caffeine
+ribonucleoprotein complex assembly	BP	PANTHER	Caffeine
+cell differentiation	BP	PANTHER	Caffeine
+cellular nitrogen compound metaboli...	BP	PANTHER	Caffeine
+nucleobase-containing compound cata...	BP	PANTHER	Caffeine
+ribosome biogenesis	BP	PANTHER	Caffeine
+homeostatic process	BP	PANTHER	Caffeine
+small molecule metabolic process	BP	PANTHER	Caffeine
+symbiont process	BP	PANTHER	Caffeine
+anatomical structure development	BP	PANTHER	Caffeine
+chromosome organization	BP	PANTHER	Caffeine
+membrane organization	BP	PANTHER	Caffeine
+protein-containing complex assembly	BP	PANTHER	Caffeine
+nuclear chromosome	CC	PANTHER	Caffeine
+cellular_component	CC	PANTHER	Caffeine
+extracellular region	CC	PANTHER	Caffeine
+extracellular space	CC	PANTHER	Caffeine
+intracellular	CC	PANTHER	Caffeine
+nucleus	CC	PANTHER	Caffeine
+nucleoplasm	CC	PANTHER	Caffeine
+chromosome	CC	PANTHER	Caffeine
+nucleolus	CC	PANTHER	Caffeine
+cytoplasm	CC	PANTHER	Caffeine
+endoplasmic reticulum	CC	PANTHER	Caffeine
+cytosol	CC	PANTHER	Caffeine
+ribosome	CC	PANTHER	Caffeine
+cytoskeleton	CC	PANTHER	Caffeine
+cytoplasmic vesicle	CC	PANTHER	Caffeine
+protein-containing complex	CC	PANTHER	Caffeine
+organelle	CC	PANTHER	Caffeine
+immune system process	BP	Previouly Found	Caffeine
+carbohydrate metabolic process	BP	Previouly Found	Caffeine
+DNA metabolic process	BP	Previouly Found	Caffeine
+translation	BP	Previouly Found	Caffeine
+cellular protein modification proce...	BP	Previouly Found	Caffeine
+cellular amino acid metabolic proce...	BP	Previouly Found	Caffeine
+protein targeting	BP	Previouly Found	Caffeine
+transport	BP	Previouly Found	Caffeine
+response to stress	BP	Previouly Found	Caffeine
+signal transduction	BP	Previouly Found	Caffeine
+cell-cell signaling	BP	Previouly Found	Caffeine
+biological_process	BP	Previouly Found	Caffeine
+catabolic process	BP	Previouly Found	Caffeine
+biosynthetic process	BP	Previouly Found	Caffeine
+protein transport	BP	Previouly Found	Caffeine
+cellular component assembly	BP	Previouly Found	Caffeine
+cell differentiation	BP	Previouly Found	Caffeine
+cellular nitrogen compound metaboli...	BP	Previouly Found	Caffeine
+nucleobase-containing compound cata...	BP	Previouly Found	Caffeine
+ribosome biogenesis	BP	Previouly Found	Caffeine
+homeostatic process	BP	Previouly Found	Caffeine
+small molecule metabolic process	BP	Previouly Found	Caffeine
+anatomical structure development	BP	Previouly Found	Caffeine
+chromosome organization	BP	Previouly Found	Caffeine
+protein-containing complex assembly	BP	Previouly Found	Caffeine
+immune system process	BP	Previouly Found	EGCG
+carbohydrate metabolic process	BP	Previouly Found	EGCG
+generation of precursor metabolites...	BP	Previouly Found	EGCG
+DNA metabolic process	BP	Previouly Found	EGCG
+translation	BP	Previouly Found	EGCG
+cellular protein modification proce...	BP	Previouly Found	EGCG
+cellular amino acid metabolic proce...	BP	Previouly Found	EGCG
+protein targeting	BP	Previouly Found	EGCG
+transport	BP	Previouly Found	EGCG
+response to stress	BP	Previouly Found	EGCG
+cytoskeleton organization	BP	Previouly Found	EGCG
+signal transduction	BP	Previouly Found	EGCG
+cell-cell signaling	BP	Previouly Found	EGCG
+biological_process	BP	Previouly Found	EGCG
+catabolic process	BP	Previouly Found	EGCG
+biosynthetic process	BP	Previouly Found	EGCG
+protein transport	BP	Previouly Found	EGCG
+cellular component assembly	BP	Previouly Found	EGCG
+cell differentiation	BP	Previouly Found	EGCG
+cellular nitrogen compound metaboli...	BP	Previouly Found	EGCG
+nucleobase-containing compound cata...	BP	Previouly Found	EGCG
+ribosome biogenesis	BP	Previouly Found	EGCG
+homeostatic process	BP	Previouly Found	EGCG
+small molecule metabolic process	BP	Previouly Found	EGCG
+anatomical structure development	BP	Previouly Found	EGCG
+chromosome organization	BP	Previouly Found	EGCG
+protein-containing complex assembly	BP	Previouly Found	EGCG
+molecular_function	MF	Previouly Found	Caffeine
+DNA binding	MF	Previouly Found	Caffeine
+RNA binding	MF	Previouly Found	Caffeine
+mRNA binding	MF	Previouly Found	Caffeine
+transcription factor binding	MF	Previouly Found	Caffeine
+peptidase activity	MF	Previouly Found	Caffeine
+lyase activity	MF	Previouly Found	Caffeine
+rRNA binding	MF	Previouly Found	Caffeine
+enzyme binding	MF	Previouly Found	Caffeine
+molecular_function	MF	Previouly Found	EGCG
+DNA binding	MF	Previouly Found	EGCG
+RNA binding	MF	Previouly Found	EGCG
+transcription factor binding	MF	Previouly Found	EGCG
+peptidase activity	MF	Previouly Found	EGCG
+oxidoreductase activity	MF	Previouly Found	EGCG
+lyase activity	MF	Previouly Found	EGCG
+rRNA binding	MF	Previouly Found	EGCG
+enzyme binding	MF	Previouly Found	EGCG
