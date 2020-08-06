@@ -1,121 +1,61 @@
-Var1	Var2	Var3	Freq	con	my_ranks
-GENECODIS	EGCG	BP	0	Maximum	9
-DAVID	EGCG	BP	1	Maximum	8
-BiNGO	EGCG	BP	2	Maximum	7
-WebGestalt	EGCG	BP	2	Maximum	7
-GOstat	EGCG	BP	3	Maximum	6
-GO::TermFinder	EGCG	BP	8	Maximum	5
-STRING	EGCG	BP	9	Maximum	4
-PANTHER	EGCG	BP	10	Maximum	3
-ClueGO	EGCG	BP	11	Maximum	2
-g:Profiler	EGCG	BP	170	Maximum	1
-GENECODIS	EGCG	CC	0	Maximum	7
-DAVID	EGCG	CC	2	Maximum	6
-WebGestalt	EGCG	CC	2	Maximum	6
-ClueGO	EGCG	CC	3	Maximum	5
-GO::TermFinder	EGCG	CC	3	Maximum	5
-GOstat	EGCG	CC	4	Maximum	4
-STRING	EGCG	CC	4	Maximum	4
-BiNGO	EGCG	CC	8	Maximum	3
-PANTHER	EGCG	CC	21	Maximum	2
-g:Profiler	EGCG	CC	53	Maximum	1
-GO::TermFinder	EGCG	MF	0	Maximum	4
-GOstat	EGCG	MF	0	Maximum	4
-BiNGO	EGCG	MF	1	Maximum	3
-DAVID	EGCG	MF	1	Maximum	3
-WebGestalt	EGCG	MF	1	Maximum	3
-ClueGO	EGCG	MF	4	Maximum	2
-PANTHER	EGCG	MF	4	Maximum	2
-STRING	EGCG	MF	4	Maximum	2
-g:Profiler	EGCG	MF	28	Maximum	1
-DAVID	EGCG	BP	2	Minimum	10
-WebGestalt	EGCG	BP	3	Minimum	9
-ClueGO	EGCG	BP	6	Minimum	8
-GENECODIS	EGCG	BP	9	Minimum	7
-g:Profiler	EGCG	BP	25	Minimum	6
-BiNGO	EGCG	BP	26	Minimum	5
-GO::TermFinder	EGCG	BP	27	Minimum	4
-PANTHER	EGCG	BP	28	Minimum	3
-STRING	EGCG	BP	36	Minimum	2
-GOstat	EGCG	BP	54	Minimum	1
-WebGestalt	EGCG	CC	1	Minimum	9
-DAVID	EGCG	CC	3	Minimum	8
-PANTHER	EGCG	CC	3	Minimum	8
-ClueGO	EGCG	CC	6	Minimum	7
-GO::TermFinder	EGCG	CC	8	Minimum	6
-GENECODIS	EGCG	CC	9	Minimum	5
-STRING	EGCG	CC	10	Minimum	4
-g:Profiler	EGCG	CC	11	Minimum	3
-BiNGO	EGCG	CC	15	Minimum	2
-GOstat	EGCG	CC	34	Minimum	1
-PANTHER	EGCG	MF	0	Minimum	6
-WebGestalt	EGCG	MF	0	Minimum	6
-ClueGO	EGCG	MF	1	Minimum	5
-DAVID	EGCG	MF	2	Minimum	4
-GO::TermFinder	EGCG	MF	2	Minimum	4
-GENECODIS	EGCG	MF	6	Minimum	3
-g:Profiler	EGCG	MF	7	Minimum	2
-GOstat	EGCG	MF	7	Minimum	2
-BiNGO	EGCG	MF	9	Minimum	1
-STRING	EGCG	MF	9	Minimum	1
-GENECODIS	Caffeine	BP	0	Maximum	8
-DAVID	Caffeine	BP	1	Maximum	7
-GOstat	Caffeine	BP	1	Maximum	7
-BiNGO	Caffeine	BP	3	Maximum	6
-WebGestalt	Caffeine	BP	3	Maximum	6
-STRING	Caffeine	BP	6	Maximum	5
-GO::TermFinder	Caffeine	BP	18	Maximum	4
-PANTHER	Caffeine	BP	24	Maximum	3
-ClueGO	Caffeine	BP	39	Maximum	2
-g:Profiler	Caffeine	BP	166	Maximum	1
-GENECODIS	Caffeine	CC	0	Maximum	10
-STRING	Caffeine	CC	1	Maximum	9
-WebGestalt	Caffeine	CC	2	Maximum	8
-BiNGO	Caffeine	CC	4	Maximum	7
-DAVID	Caffeine	CC	5	Maximum	6
-GO::TermFinder	Caffeine	CC	12	Maximum	5
-ClueGO	Caffeine	CC	14	Maximum	4
-g:Profiler	Caffeine	CC	17	Maximum	3
-GOstat	Caffeine	CC	21	Maximum	2
-PANTHER	Caffeine	CC	30	Maximum	1
-GOstat	Caffeine	MF	0	Maximum	9
-DAVID	Caffeine	MF	2	Maximum	8
-WebGestalt	Caffeine	MF	2	Maximum	8
-GENECODIS	Caffeine	MF	3	Maximum	7
-STRING	Caffeine	MF	4	Maximum	6
-BiNGO	Caffeine	MF	5	Maximum	5
-GO::TermFinder	Caffeine	MF	7	Maximum	4
-g:Profiler	Caffeine	MF	8	Maximum	3
-ClueGO	Caffeine	MF	9	Maximum	2
-PANTHER	Caffeine	MF	16	Maximum	1
-DAVID	Caffeine	BP	1	Minimum	9
-GO::TermFinder	Caffeine	BP	6	Minimum	8
-WebGestalt	Caffeine	BP	7	Minimum	7
-ClueGO	Caffeine	BP	10	Minimum	6
-GENECODIS	Caffeine	BP	16	Minimum	5
-BiNGO	Caffeine	BP	26	Minimum	4
-g:Profiler	Caffeine	BP	39	Minimum	3
-STRING	Caffeine	BP	39	Minimum	3
-PANTHER	Caffeine	BP	44	Minimum	2
-GOstat	Caffeine	BP	73	Minimum	1
-ClueGO	Caffeine	CC	0	Minimum	7
-GO::TermFinder	Caffeine	CC	0	Minimum	7
-PANTHER	Caffeine	CC	0	Minimum	7
-WebGestalt	Caffeine	CC	2	Minimum	6
-GENECODIS	Caffeine	CC	6	Minimum	5
-DAVID	Caffeine	CC	8	Minimum	4
-STRING	Caffeine	CC	13	Minimum	3
-BiNGO	Caffeine	CC	25	Minimum	2
-g:Profiler	Caffeine	CC	25	Minimum	2
-GOstat	Caffeine	CC	27	Minimum	1
-ClueGO	Caffeine	MF	0	Minimum	7
-GO::TermFinder	Caffeine	MF	0	Minimum	7
-PANTHER	Caffeine	MF	0	Minimum	7
-DAVID	Caffeine	MF	1	Minimum	6
-WebGestalt	Caffeine	MF	1	Minimum	6
-GENECODIS	Caffeine	MF	6	Minimum	5
-BiNGO	Caffeine	MF	7	Minimum	4
-STRING	Caffeine	MF	9	Minimum	3
-GOstat	Caffeine	MF	10	Minimum	2
-g:Profiler	Caffeine	MF	22	Minimum	1
-GENECODIS	EGCG	MF	0	Maximum	4
+Database	con	Var3	Freq_caf	my_ranks_caf	Freq_egcg	my_ranks_egcg	Range
+BiNGO	Maximum	BP	3	6	2	7	-1
+BiNGO	Maximum	CC	4	7	8	3	4
+BiNGO	Maximum	MF	5	5	1	3	2
+BiNGO	Minimum	BP	26	4	26	5	-1
+BiNGO	Minimum	CC	25	2	15	2	0
+BiNGO	Minimum	MF	7	4	9	1	3
+ClueGO	Maximum	BP	39	2	11	2	0
+ClueGO	Maximum	CC	14	4	3	5	-1
+ClueGO	Maximum	MF	9	2	4	2	0
+ClueGO	Minimum	BP	10	6	6	8	-2
+ClueGO	Minimum	CC	0	7	6	7	0
+ClueGO	Minimum	MF	0	7	1	5	2
+DAVID	Maximum	BP	1	7	1	8	-1
+DAVID	Maximum	CC	5	6	2	6	0
+DAVID	Maximum	MF	2	8	1	3	5
+DAVID	Minimum	BP	1	9	2	10	-1
+DAVID	Minimum	CC	8	4	3	8	-4
+DAVID	Minimum	MF	1	6	2	4	2
+g:Profiler	Maximum	BP	166	1	170	1	0
+g:Profiler	Maximum	CC	17	3	53	1	2
+g:Profiler	Maximum	MF	8	3	28	1	2
+g:Profiler	Minimum	BP	39	3	25	6	-3
+g:Profiler	Minimum	CC	25	2	11	3	-1
+g:Profiler	Minimum	MF	22	1	7	2	-1
+GENECODIS	Maximum	BP	0	8	0	9	-1
+GENECODIS	Maximum	CC	0	10	0	7	3
+GENECODIS	Maximum	MF	3	7	9	7	0
+GENECODIS	Minimum	BP	16	5	9	5	0
+GENECODIS	Minimum	CC	6	5	6	3	2
+GENECODIS	Minimum	MF	6	5	0	4	1
+GO::TermFinder	Maximum	BP	18	4	8	5	-1
+GO::TermFinder	Maximum	CC	12	5	3	5	0
+GO::TermFinder	Maximum	MF	7	4	0	4	0
+GO::TermFinder	Minimum	BP	6	8	27	4	4
+GO::TermFinder	Minimum	CC	0	7	8	6	1
+GO::TermFinder	Minimum	MF	0	7	2	4	3
+GOstat	Maximum	BP	1	7	3	6	1
+GOstat	Maximum	CC	21	2	4	4	-2
+GOstat	Maximum	MF	0	9	0	4	5
+GOstat	Minimum	BP	73	1	54	1	0
+GOstat	Minimum	CC	27	1	34	1	0
+GOstat	Minimum	MF	10	2	7	2	0
+PANTHER	Maximum	BP	24	3	10	3	0
+PANTHER	Maximum	CC	30	1	21	2	-1
+PANTHER	Maximum	MF	16	1	4	2	-1
+PANTHER	Minimum	BP	44	2	28	3	-1
+PANTHER	Minimum	CC	0	7	3	8	-1
+PANTHER	Minimum	MF	0	7	0	6	1
+STRING	Maximum	BP	6	5	9	4	1
+STRING	Maximum	CC	1	9	4	4	5
+STRING	Maximum	MF	4	6	4	2	4
+STRING	Minimum	BP	39	3	36	2	1
+STRING	Minimum	CC	13	3	10	4	-1
+STRING	Minimum	MF	9	3	9	1	2
+WebGestalt	Maximum	BP	3	6	2	7	-1
+WebGestalt	Maximum	CC	2	8	2	6	2
+WebGestalt	Maximum	MF	2	8	1	3	5
+WebGestalt	Minimum	BP	7	7	3	9	-2
+WebGestalt	Minimum	CC	2	6	1	9	-3
+WebGestalt	Minimum	MF	1	6	0	6	0
