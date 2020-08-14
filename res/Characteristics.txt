@@ -39,16 +39,16 @@ PANTHER,Fisher's exact test,1,Statistical Test
 GENECODIS,Fisher's exact test,0,Statistical Test
 GOstat,Fisher's exact test,1,Statistical Test
 WebGestalt,Fisher's exact test,1,Statistical Test
-g:Profiler,Benjamini?Hochberg method,1,Multiple Testing Method
-GO:TermFinder,Benjamini?Hochberg method,0,Multiple Testing Method
-ClueGO,Benjamini?Hochberg method,1,Multiple Testing Method
-BiNGO,Benjamini?Hochberg method,1,Multiple Testing Method
-STRING,Benjamini?Hochberg method,1,Multiple Testing Method
-DAVID,Benjamini?Hochberg method,1,Multiple Testing Method
-PANTHER,Benjamini?Hochberg method,1,Multiple Testing Method
-GENECODIS,Benjamini?Hochberg method,1,Multiple Testing Method
-GOstat,Benjamini?Hochberg method,1,Multiple Testing Method
-WebGestalt,Benjamini?Hochberg method,1,Multiple Testing Method
+g:Profiler,Benjamini Hochberg method,1,Multiple Testing Method
+GO:TermFinder,Benjamini Hochberg method,0,Multiple Testing Method
+ClueGO,Benjamini Hochberg method,1,Multiple Testing Method
+BiNGO,Benjamini Hochberg method,1,Multiple Testing Method
+STRING,Benjamini Hochberg method,1,Multiple Testing Method
+DAVID,Benjamini Hochberg method,1,Multiple Testing Method
+PANTHER,Benjamini Hochberg method,1,Multiple Testing Method
+GENECODIS,Benjamini Hochberg method,1,Multiple Testing Method
+GOstat,Benjamini Hochberg method,1,Multiple Testing Method
+WebGestalt,Benjamini Hochberg method,1,Multiple Testing Method
 g:Profiler,Bonferroni correction,1,Multiple Testing Method
 GO:TermFinder,Bonferroni correction,1,Multiple Testing Method
 ClueGO,Bonferroni correction,1,Multiple Testing Method
@@ -99,16 +99,16 @@ PANTHER,g:SCS algorithm,0,Multiple Testing Method
 GENECODIS,g:SCS algorithm,0,Multiple Testing Method
 GOstat,g:SCS algorithm,0,Multiple Testing Method
 WebGestalt,g:SCS algorithm,0,Multiple Testing Method
-g:Profiler,Holm?Bonferroni method,0,Multiple Testing Method
-GO:TermFinder,Holm?Bonferroni method,0,Multiple Testing Method
-ClueGO,Holm?Bonferroni method,0,Multiple Testing Method
-BiNGO,Holm?Bonferroni method,0,Multiple Testing Method
-STRING,Holm?Bonferroni method,0,Multiple Testing Method
-DAVID,Holm?Bonferroni method,0,Multiple Testing Method
-PANTHER,Holm?Bonferroni method,0,Multiple Testing Method
-GENECODIS,Holm?Bonferroni method,0,Multiple Testing Method
-GOstat,Holm?Bonferroni method,1,Multiple Testing Method
-WebGestalt,Holm?Bonferroni method,1,Multiple Testing Method
+g:Profiler,Holm Bonferroni method,0,Multiple Testing Method
+GO:TermFinder,Holm Bonferroni method,0,Multiple Testing Method
+ClueGO,Holm Bonferroni method,0,Multiple Testing Method
+BiNGO,Holm Bonferroni method,0,Multiple Testing Method
+STRING,Holm Bonferroni method,0,Multiple Testing Method
+DAVID,Holm Bonferroni method,0,Multiple Testing Method
+PANTHER,Holm Bonferroni method,0,Multiple Testing Method
+GENECODIS,Holm Bonferroni method,0,Multiple Testing Method
+GOstat,Holm Bonferroni method,1,Multiple Testing Method
+WebGestalt,Holm Bonferroni method,1,Multiple Testing Method
 g:Profiler,Hommel,0,Multiple Testing Method
 GO:TermFinder,Hommel,0,Multiple Testing Method
 ClueGO,Hommel,0,Multiple Testing Method
